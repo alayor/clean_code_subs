@@ -4,36 +4,36 @@
 
 2
 00:00:11,699 --> 00:00:13,467
-- Hola, Soy Amanda.
+- Hola, soy Amanda.
 
 3
 00:00:13,467 --> 00:00:14,792
-- Hi, I'm Elizabeth.
+- Hola, soy Elizabeth.
 
 4
 00:00:14,792 --> 00:00:16,413
-- Hi, I'm Alexis.
+- Hola, soy Alexis.
 
 5
 00:00:16,413 --> 00:00:18,205
-- Hi, I'm Mufa.
+- Hi, soy Mufa.
 
 6
 00:00:18,205 --> 00:00:19,246
-- Welcome.
-- To another.
+- Bienvenidos.
+- A otro.
 
 7
 00:00:19,246 --> 00:00:20,079
-- Episode.
+- Episodio.
 
 8
 00:00:20,079 --> 00:00:21,037
-- Episode of.
+- Episodio de.
 
 9
 00:00:21,037 --> 00:00:22,360
-- [Woman] Clean code.
+- Clean code.
 
 10
 00:00:22,360 --> 00:00:23,875
@@ -46,90 +46,90 @@
 
 12
 00:00:25,173 --> 00:00:27,073
-- You're gonna begin a journey.
+- Vamos a emprender un viaje.
 
 13
 00:00:27,073 --> 00:00:28,663
-- To begin a journey of...
+- Para emprender un viaje de ...
 
 14
 00:00:28,663 --> 00:00:29,496
-- In this episode.
+- En este episodio.
 
 15
 00:00:29,496 --> 00:00:30,329
-- Episode.
+- Episodio.
 
 16
 00:00:31,663 --> 00:00:33,281
-- Woohoo.
+- Wuujuu!.
 
 17
 00:00:33,281 --> 00:00:34,114
-- By Uncle Bob.
+- Por Uncle Bob.
 
 18
 00:00:34,114 --> 00:00:35,781
-- [Group] Uncle Bob.
+- Uncle Bob.
 
 19
 00:00:36,792 --> 00:00:37,879
-- Enjoy!
+- Disfruten!
 
 20
 00:00:37,879 --> 00:00:40,796
-(clamoring voices)
+
 
 21
 00:00:44,139 --> 00:00:47,317
-(beeping sounds)
+
 
 22
 00:00:47,317 --> 00:00:49,984
-(keys clicking)
+
 
 23
 00:00:51,624 --> 00:00:54,207
-(cheery music)
+
 
 24
 00:00:59,061 --> 00:01:02,051
-- Welcome, welcome to the remake
+- Bienvenidos, bienvenidos a la nueva versión
 
 25
 00:01:02,051 --> 00:01:05,011
-of episode one of Clean Code.
+del episodio uno de Clean Code.
 
 26
 00:01:05,011 --> 00:01:06,761
-Let me take your hat.
+Permíteme tomar tu sombrero.
 
 27
 00:01:08,586 --> 00:01:10,965
-So, it's been two and a half years
+Entonces, han pasado dos años y medio
 
 28
 00:01:10,965 --> 00:01:14,224
-since I wrote and produced
-that very first episode.
+desde que escribí y produje
+ese primer episodio.
 
 29
 00:01:14,224 --> 00:01:17,645
-And now with 20 episodes under our belt,
+Y ahora con 20 episodios en nuestro haber,
 
 30
 00:01:17,645 --> 00:01:20,685
-we thought it was time to
-spiff up that old first episode
+pensamos que era hora de
+resaltar ese viejo primer episodio
 
 31
 00:01:20,685 --> 00:01:23,555
-and bring it up to our
-current standards of
+y llevarlo a nuestros
+estándares actuales de
 
 32
 00:01:23,555 --> 00:01:27,445
-scripting, and video, and audio editing.
+scripting, video, y edición de audio.
 
 33
 00:01:27,445 --> 00:01:30,176
