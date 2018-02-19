@@ -226,57 +226,57 @@ fue solicitada por su jefe, Edward Pickering,
 
 54
 00:02:38,317 --> 00:02:41,165
-que estudiara y midiera estrellas variables,
+para que estudiara y midiera estrellas variables,
 
 55
 00:02:41,165 --> 00:02:44,915
-stars that change their
-brightness over time.
+estrellas que cambian su
+brillo con el tiempo
 
 56
 00:02:46,475 --> 00:02:49,808
-Finding and studying variable stars using
+Encontrar y estudiar estrellas variables usando
 
 57
 00:02:49,808 --> 00:02:53,459
-photographic plates is not an easy task.
+placas fotográficas no es una tarea fácil.
 
 58
 00:02:53,459 --> 00:02:55,808
-You begin with one photographic plate
+Comienzas con una placa fotográfica
 
 59
 00:02:55,808 --> 00:02:59,059
-that has hundreds and
-hundreds of stars on it,
+que tiene cientos y
+cientos de estrellas en él,
 
 60
 00:02:59,059 --> 00:03:03,027
-and then you measure each
-individual star's brightness
+y luego mides cada
+brillo de estrella individual
 
 61
 00:03:03,027 --> 00:03:06,587
-by measuring the diameter of the spot
+midiendo el diámetro de la mancha
 
 62
 00:03:06,587 --> 00:03:08,387
-on the photographic plate.
+en la placa fotográfica.
 
 63
 00:03:08,387 --> 00:03:11,979
-And you do this for
-every star on the plate.
+Y haces esto por
+cada estrella en el plato.
 
 64
 00:03:11,979 --> 00:03:14,576
-And then you get another
-photographic plate
+Y luego obtienes otro
+placa fotográfica
 
 65
 00:03:14,576 --> 00:03:18,277
-from the same part of the sky
-taken at a different time,
+de la misma parte del cielo
+tomado en un momento diferente,
 
 66
 00:03:18,277 --> 00:03:20,704
