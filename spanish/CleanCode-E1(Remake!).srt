@@ -280,230 +280,230 @@ tomado en un momento diferente,
 
 66
 00:03:18,277 --> 00:03:20,704
-and you do all those measurements again,
+y realizas todas esas medidas de nuevo,
 
 67
 00:03:20,704 --> 00:03:23,323
-and you correlate them, looking for stars
+y los correlacionas, buscando estrellas
 
 68
 00:03:23,323 --> 00:03:25,440
-that changed in brightness.
+que cambiaron en brillo.
 
 69
 00:03:25,440 --> 00:03:28,960
-And then you do that
-again and again and again
+Y luego haces eso
+una y otra y otra vez
 
 70
 00:03:28,960 --> 00:03:31,440
-for hundreds and hundreds of plates
+para cientos y cientos de platos
 
 71
 00:03:31,440 --> 00:03:33,190
-over years and years.
+durante años y años.
 
 72
 00:03:36,101 --> 00:03:38,629
-In Leavitt's case, it was the 20 years
+En el caso de Leavitt, fueron los 20 años
 
 73
 00:03:38,629 --> 00:03:40,462
-between 1893 and 1912.
+entre 1893 y 1912.
 
 74
 00:03:42,309 --> 00:03:44,421
-And in those fateful decades,
+Y en esas décadas fatales,
 
 75
 00:03:44,421 --> 00:03:47,941
-she made one of the most
-amazingly useful discoveries
+ella hizo uno de los
+descubrimientos más increíblemente útiles
 
 76
 00:03:47,941 --> 00:03:50,274
-in the history of astronomy.
+en la historia de la astronomía.
 
 77
 00:03:51,768 --> 00:03:54,856
-You see, she noticed something peculiar
+Como sabrás, ella notó algo peculiar
 
 78
 00:03:54,856 --> 00:03:57,397
-about the magellanic clouds.
+sobre las nubes de Magallanes
 
 79
 00:03:57,397 --> 00:04:00,027
-Now these clouds, to
-the naked eye, are just
+Ahora estas nubes,
+a simple vista, son solo
 
 80
 00:04:00,027 --> 00:04:03,907
-patches of fuzz on the
-Southern hemisphere sky,
+parches de pelusa en el
+cielo del hemisferio sur,
 
 81
 00:04:03,907 --> 00:04:07,656
-but on a photographic plate
-taken through a telescope,
+pero en una placa fotográfica
+tomado a través de un telescopio,
 
 82
 00:04:07,656 --> 00:04:11,823
-they are clouds of millions
-upon millions of stars.
+son nubes de millones
+sobre millones de estrellas.
 
 83
 00:04:13,907 --> 00:04:17,717
-What Leavitt noticed was
-that thousands of those stars
+Lo que Leavitt notó fue
+que miles de esas estrellas
 
 84
 00:04:17,717 --> 00:04:21,176
-in the magellanic clouds
-were variable stars,
+en las nubes de Magallanes
+eran estrellas variables,
 
 85
 00:04:21,176 --> 00:04:24,093
-their brightness changed over time.
+su brillo cambió con el tiempo.
 
 86
 00:04:25,456 --> 00:04:28,248
-Now there's a certain
-kind of variable star
+Ahora hay un cierto
+tipo de estrella variable
 
 87
 00:04:28,248 --> 00:04:30,645
-called a cepheid variable.
+llamada una variable cefeida.
 
 88
 00:04:30,645 --> 00:04:34,645
-And cepheid variables pulsate
-with very regular rhythms.
+Y las variables cefeidas pulsan
+con ritmos muy regulares.
 
 89
 00:04:34,645 --> 00:04:37,392
-Some of them pulsate
-once in a couple of days,
+Algunos de ellos pulsan
+una vez en un par de días,
 
 90
 00:04:37,392 --> 00:04:40,528
-others will pulsate once
-in a couple of weeks.
+otros latirán una vez
+en un par de semanas.
 
 91
 00:04:40,528 --> 00:04:44,747
-Why they pulsate will be a
-topic of another episode.
+Por qué pulsan será un
+tema de otro episodio.
 
 92
 00:04:44,747 --> 00:04:48,787
-Leavitt found many such cepheid variables
+Leavitt encontró muchas de esas variables cefeidas
 
 93
 00:04:48,787 --> 00:04:50,416
-in the magellanic clouds,
+en las nubes de Magallanes,
 
 94
 00:04:50,416 --> 00:04:53,166
-all pulsating at different rates.
+todas pulsando a diferentes velocidades.
 
 95
 00:04:54,317 --> 00:04:58,717
-But then she noticed something
-that wasn't true elsewhere.
+Pero luego notó algo
+que no era cierto en otro lugar.
 
 96
 00:04:58,717 --> 00:05:02,440
-The brighter cepheid variables
-in the magellanic clouds
+Las variables cefeidas más brillantes
+en las nubes de Magallanes
 
 97
 00:05:02,440 --> 00:05:06,392
-pulsated more slowly than the dimmer ones.
+pulsaban más lentamente que las más tenues.
 
 98
 00:05:06,392 --> 00:05:09,285
-Why would this be true
-of the magellanic clouds
+¿Por qué pasaría esto
+en las nubes de Magallanes
 
 99
 00:05:09,285 --> 00:05:11,702
-but not elsewhere in the sky?
+pero no en otro lugar en el cielo?
 
 100
 00:05:13,312 --> 00:05:16,133
-But then it occurred to her.
+Pero luego se le ocurrió a ella.
 
 101
 00:05:16,133 --> 00:05:19,893
-What if all the stars
-in the magellanic cloud
+¿Qué tal si todas las estrellas
+en la nube de Magallanes
 
 102
 00:05:19,893 --> 00:05:23,872
-were roughly the same distance from us?
+estaban más o menos a la misma distancia de nosotros?
 
 103
 00:05:23,872 --> 00:05:26,965
-If that was true, then
-the rate at which the
+Si eso era cierto, entonces
+la velocidad a la que
 
 104
 00:05:26,965 --> 00:05:29,773
-cepheid variables pulsated was related
+las variables cefeidas pulsadas estaban relacionadas
 
 105
 00:05:29,773 --> 00:05:32,023
-to their actual brightness.
+a su brillo real.
 
 106
 00:05:34,123 --> 00:05:37,933
-She did the math and came up
-with a simple and beautiful
+Ella hizo los cálculos y se acercó
+con una simple y hermosa
 
 107
 00:05:37,933 --> 00:05:42,541
-formula called the period
-luminosity relationship.
+fórmula llamada el período
+relación de luminosidad.
 
 108
 00:05:42,541 --> 00:05:46,413
-Given the period of a star
-in the magellanic clouds,
+Dado el período de una estrella
+en las nubes de Magallanes,
 
 109
 00:05:46,413 --> 00:05:49,621
-using this formula, she
-could predict luminosity,
+usando esta fórmula, ella
+podría predecir la luminosidad,
 
 110
 00:05:49,621 --> 00:05:54,013
-or given the luminosity of a
-star in the magellanic clouds,
+o dada la luminosidad de un
+estrella en las nubes de Magallanes,
 
 111
 00:05:54,013 --> 00:05:58,013
-she could use the formula
-to predict the period.
+ella podría usar la fórmula
+para predecir el período.
 
 112
 00:05:59,381 --> 00:06:02,021
-Now, maybe you're wondering
-why this was so useful,
+Ahora, tal vez te estás preguntando
+por qué esto fue tan útil,
 
 113
 00:06:02,021 --> 00:06:04,517
-but let me tell you, it's really useful.
+pero déjame decirte, es realmente útil.
 
 114
 00:06:04,517 --> 00:06:08,048
-And the reason is that if
-you can measure the distance
+Y la razón es que si
+puedes medir la distancia
 
 115
 00:06:08,048 --> 00:06:12,408
-to just one cepheid variable
-star, one that's nearby,
+a una sola variable cefeida
+estrella, una que está cerca,
 
 116
 00:06:12,408 --> 00:06:15,747
