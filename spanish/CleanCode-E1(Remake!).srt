@@ -507,94 +507,94 @@ estrella, una que está cerca,
 
 116
 00:06:12,408 --> 00:06:15,747
-then you can calibrate
-Leavitt's formula to tell you
+entonces puedes calibrar
+la fórmula de Leavitt para que te diga
 
 117
 00:06:15,747 --> 00:06:18,395
-where any cepheid variable star is.
+donde está cualquier estrella variable cefeida.
 
 118
 00:06:18,395 --> 00:06:21,475
-So long as you can measure
-its period and luminosity,
+Mientras puedas medir
+su período y luminosidad,
 
 119
 00:06:21,475 --> 00:06:24,058
-you can calculate its distance.
+puedes calcular su distancia
 
 120
 00:06:25,664 --> 00:06:28,453
-Needless to say, the hunt was on.
+Sobra decir que la cacería había iniciado.
 
 121
 00:06:28,453 --> 00:06:31,229
-And it was just a year
-later that Ejnar Hertzsprung
+Y fue solo un año
+más tarde que Ejnar Hertzsprung
 
 122
 00:06:31,229 --> 00:06:35,117
-measured the distance to
-several cepheid variable stars.
+midió la distancia a
+varias estrellas variables cefeidas.
 
 123
 00:06:35,117 --> 00:06:38,579
-Using those numbers, Leavitt's
-formula was calibrated
+Usando esos números, la fórmula
+de Leavitt fue calibrada
 
 124
 00:06:38,579 --> 00:06:41,496
-such that it could tell
-you the distance to any
+de tal manera que podría decirte
+la distancia a cualquier
 
 125
 00:06:41,496 --> 00:06:44,576
-cepheid variable if you could measure its
+variable cefeida si pudieras medir su
 
 126
 00:06:44,576 --> 00:06:47,409
-period and its average luminosity.
+período y su luminosidad promedio.
 
 127
 00:06:48,656 --> 00:06:50,616
-Let me repeat that.
+Déjame repetir eso.
 
 128
 00:06:50,616 --> 00:06:53,448
-We could now accurately
-determine the distance
+Ahora podríamos determinar
+con precision la distancia
 
 129
 00:06:53,448 --> 00:06:57,917
-to any object that contained
-a cepheid variable.
+a cualquier objeto que contenga
+una variable cefeida
 
 130
 00:06:57,917 --> 00:07:00,837
-What objects contain cepheid variables?
+¿Qué objetos contienen las variables cefeidas?
 
 131
 00:07:00,837 --> 00:07:03,504
-Oh, globular clusters, galaxies,
+Oh, cúmulos globulares, galaxias,
 
 132
 00:07:04,997 --> 00:07:07,914
-but that's a topic for another day.
+pero ese es un tema para otro día.
 
 133
 00:07:09,235 --> 00:07:13,187
-For now, just remember that
-the measuring stick we use
+Por ahora, solo recuerda eso
+la vara de medir que usamos
 
 134
 00:07:13,187 --> 00:07:17,885
-to measure the universe
-itself was the result of
+para medir el universo
+en sí fue el resultado de
 
 135
 00:07:17,885 --> 00:07:21,645
-the careful and dedicated
-efforts of one remarkable woman,
+el cuidadoso y dedicado
+esfuerzo de una mujer notable,
 
 136
 00:07:21,645 --> 00:07:23,562
@@ -602,16 +602,16 @@ Henrietta Swan Leavitt.
 
 137
 00:07:24,453 --> 00:07:27,685
-(beeping sounds)
+
 
 138
 00:07:27,685 --> 00:07:30,352
-(keys clicking)
+
 
 139
 00:07:32,915 --> 00:07:36,741
-In 2008, Kent Beck wrote
-this wonderful book,
+En 2008, Kent Beck escribió
+este maravilloso libro,
 
 140
 00:07:36,741 --> 00:07:38,611
@@ -619,51 +619,51 @@ Implementation Patterns.
 
 141
 00:07:38,611 --> 00:07:42,027
-It's full of tips and techniques
-that programmers can use
+Está lleno de consejos y técnicas
+que los programadores pueden usar
 
 142
 00:07:42,027 --> 00:07:46,229
-to keep their code nicely
-structured and well ordered.
+para mantener su código bien
+estructurado y bien ordenado.
 
 143
 00:07:46,229 --> 00:07:48,789
-But he began this book
-with what I consider
+Pero él comenzó este libro
+con lo que considero
 
 144
 00:07:48,789 --> 00:07:51,379
-to be a striking statement.
+ser una declaración sorprendente.
 
 145
 00:07:51,379 --> 00:07:55,592
-He said, "Actually, this
-book is built on a rather
+Él dijo: "En realidad, esto
+libro está construido sobre una
 
 146
 00:07:55,592 --> 00:07:59,009
-"fragile premise that good code matters."
+"premisa frágil que el buen código importa".
 
 147
 00:08:02,155 --> 00:08:03,738
-- Fragile? Fragile?
+- ¿Frágil? ¿Frágil?
 
 148
 00:08:04,856 --> 00:08:06,395
-I don't see anything fragile
+No veo nada frágil
 
 149
 00:08:06,395 --> 00:08:08,592
-about the fact that good code matters,
+sobre el hecho de que el buen código importa,
 
 150
 00:08:08,592 --> 00:08:09,939
-of course it matters!
+por supuesto que importa!
 
 151
 00:08:09,939 --> 00:08:12,275
-What nonsense to think otherwise.
+Qué tonterías pensar de otra manera.
 
 152
 00:08:12,275 --> 00:08:13,108
@@ -671,137 +671,137 @@ Hmph!
 
 153
 00:08:15,163 --> 00:08:18,624
-- Of course, as the author
-of this book, Clean Code,
+- Por supuesto, como el autor
+de este libro, Clean Code,
 
 154
 00:08:18,624 --> 00:08:22,124
-I have to agree, clean code matters a lot.
+Tengo que estar de acuerdo, limpiar el código importa mucho.
 
 155
 00:08:24,621 --> 00:08:27,381
-- Indeed, clean code
-can make the difference
+- De hecho, código limpio
+puede hacer la diferencia
 
 156
 00:08:27,381 --> 00:08:30,531
-between the ultimate success or failure
+entre el éxito o fracaso final
 
 157
 00:08:30,531 --> 00:08:31,864
-of your company.
+de su empresa
 
 158
 00:08:33,445 --> 00:08:36,227
-- I've experienced this quite directly.
+- He experimentado esto bastante directamente.
 
 159
 00:08:36,227 --> 00:08:39,387
-Here, let me tell you this story of
+Aquí, déjame contarte esta historia de
 
 160
 00:08:39,387 --> 00:08:41,637
-the company killed by code.
+la compañía asesinada por código.
 
 161
 00:08:44,096 --> 00:08:48,965
-In 1988, or thereabouts, I
-was working for a company.
+En 1988, más o menos, yo
+estaba trabajando para una compañía.
 
 162
 00:08:48,965 --> 00:08:50,917
-And we were building a large
+Y estábamos construyendo un gran
 
 163
 00:08:50,917 --> 00:08:53,707
-network management system in C.
+sistema de gestión de red en C.
 
 164
 00:08:53,707 --> 00:08:57,874
-We purchased a debugger
-from a company named Sword.
+Compramos un debugger
+de una compañía llamada Sword.
 
 165
 00:08:59,435 --> 00:09:02,443
-It allowed us to single
-step and breakpoint
+Nos permitió hacer debuggeo
+línea por línea y crear breakpoints
 
 166
 00:09:02,443 --> 00:09:04,693
-our way through our C code.
+a través de nuestro código C
 
 167
 00:09:06,200 --> 00:09:09,627
-- Whoa, like, you know
-I've got to debug my
+- Whoa, como, tu sabes
+tengo que debuggear mi
 
 168
 00:09:09,627 --> 00:09:12,960
-Ruby source code all the time, you know.
+código fuente de Ruby todo el tiempo, ya sabes.
 
 169
 00:09:15,216 --> 00:09:20,005
-- Yeah, but back then a
-source-level debugger was a rarity.
+- Sí, pero en ese entonces un
+debugger a nivel de codigo fuente era una rareza.
 
 170
 00:09:20,005 --> 00:09:24,133
-I mean most of the time
-we debugged in hex.
+Quiero decir la mayor parte del tiempo
+debuggeabamos en hex.
 
 171
 00:09:24,133 --> 00:09:24,966
-- (laughing) Yeah,
+- Sí,
 
 172
 00:09:24,966 --> 00:09:25,825
-(laughing) yeah, yeah,
+sí, sí,
 
 173
 00:09:25,825 --> 00:09:27,155
-that sounds like a nightmare.
+eso suena como una pesadilla.
 
 174
 00:09:27,155 --> 00:09:29,405
-(laughing)
+
 
 175
 00:09:30,549 --> 00:09:31,829
-- Oh, it was.
+- Oh, lo era.
 
 176
 00:09:31,829 --> 00:09:34,128
-Of course, it's all we knew, but it was.
+Por supuesto, es todo lo que sabíamos, pero lo era.
 
 177
 00:09:34,128 --> 00:09:36,299
-But look, this Sword tool was great.
+Pero mira, esta herramienta de Sword fue genial.
 
 178
 00:09:36,299 --> 00:09:38,757
-I mean it was very
-powerful, and it saved us
+Quiero decir que fue muy
+poderosa, y nos salvó
 
 179
 00:09:38,757 --> 00:09:41,144
-a boatload of time and effort.
+un montón de tiempo y esfuerzo.
 
 180
 00:09:41,144 --> 00:09:42,144
-We loved it.
+Nos encantó.
 
 181
 00:09:44,056 --> 00:09:45,653
-- Gosh, Uncle Bob,
+- Cielos, Uncle Bob,
 
 182
 00:09:45,653 --> 00:09:49,820
-that must've been a really
-popular product back then.
+eso debió haber sido un producto
+realmente popular en ese entonces.
 
 183
 00:09:50,963 --> 00:09:52,416
-- Oh, it was.
+- Oh, lo fue.
 
 184
 00:09:52,416 --> 00:09:55,448
