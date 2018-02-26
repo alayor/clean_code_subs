@@ -805,248 +805,248 @@ realmente popular en ese entonces.
 
 184
 00:09:52,416 --> 00:09:55,448
-I mean they were doing a gang
-buster business at first.
+Ellos estaban haciendo un
+negociazo al principio.
 
 185
 00:09:55,448 --> 00:09:57,608
-The trade journals loved them,
+Las revistas comerciales los amaban,
 
 186
 00:09:57,608 --> 00:10:01,117
-and the folks at user
-groups and conferences,
+y la gente en los grupos de
+usuarios y conferencias,
 
 187
 00:10:01,117 --> 00:10:03,200
-they couldn't get enough.
+no se daban abasto.
 
 188
 00:10:06,077 --> 00:10:09,408
-A couple of years later, it was 1990,
+Un par de años después, era 1990,
 
 189
 00:10:09,408 --> 00:10:11,557
-and we started dreaming about switching
+y empezamos a soñar con cambiar
 
 190
 00:10:11,557 --> 00:10:13,557
-from C to C++.
+de C a C++.
 
 191
 00:10:16,424 --> 00:10:18,624
-We called Sword and asked
-them whether they'd be
+Llamamos a Sword y le preguntamos
+si ellos seguirían
 
 192
 00:10:18,624 --> 00:10:21,791
-supporting C++ anytime soon.
+apoyando C++ en el futuro cercano.
 
 193
 00:10:23,312 --> 00:10:25,992
-They told us that the C++ version would be
+Nos dijeron que la versión de C++
 
 194
 00:10:25,992 --> 00:10:27,575
-coming pretty soon.
+llegaría muy pronto
 
 195
 00:10:29,432 --> 00:10:30,849
-But time wore on.
+Pero el tiempo pasó.
 
 196
 00:10:32,341 --> 00:10:34,508
-For six months it wore on.
+Durante seis meses se prolongó.
 
 197
 00:10:36,931 --> 00:10:41,098
-But finally, the C++ version
-of the Sword debugger arrived.
+Pero finalmente, la versión C++
+del debugger de Sword llegó.
 
 198
 00:10:42,083 --> 00:10:45,597
-(party horn) We were really excited.
+Estábamos muy emocionados.
 
 199
 00:10:45,597 --> 00:10:49,097
-And so we installed it and we fired it up.
+Y entonces lo instalamos y lo lanzamos.
 
 200
 00:10:50,317 --> 00:10:54,484
-But it took 45 minutes to
-load and then it crashed.
+Pero tardó 45 minutos en
+cargar y luego se cayó.
 
 201
 00:10:55,917 --> 00:10:57,517
-- (laughing) Yeah.
+- Sí.
 
 202
 00:10:57,517 --> 00:10:59,053
-(laughing) Boom.
+Boom.
 
 203
 00:10:59,053 --> 00:11:01,303
-(laughing)
+
 
 204
 00:11:02,496 --> 00:11:05,347
-- Well, we didn't think it was so funny.
+- Bueno, no creímos que fuera gracioso.
 
 205
 00:11:05,347 --> 00:11:09,667
-Debugging C++ in hex is
-not an awful lot of fun,
+La depuración de C++ en hexadecimal no
+es muy divertido,
 
 206
 00:11:09,667 --> 00:11:11,875
-so we called up Sword
-and we told them they had
+así que llamamos a Sword
+y les dijimos que tenían
 
 207
 00:11:11,875 --> 00:11:15,149
-to fix this problem, and they swore to us
+que arreglar este problema, y ​​nos juraron
 
 208
 00:11:15,149 --> 00:11:18,317
-that they'd fix it in the next release.
+que lo arreglarían en la próxima versión.
 
 209
 00:11:18,317 --> 00:11:19,880
-- (laughing) Yeah.
+- Sí.
 
 210
 00:11:19,880 --> 00:11:22,728
-(laughing) And I bet it took
-'em another six months (laughs)
+Y apuesto a que tomaron
+otros seis meses
 
 211
 00:11:22,728 --> 00:11:26,077
-to send you a new release. (laughing)
+para enviarte una nueva versión.
 
 212
 00:11:26,077 --> 00:11:28,994
-Yes, Jerry, it did, and believe me,
+Sí, Jerry, eso pasó, y créeme,
 
 213
 00:11:30,003 --> 00:11:33,413
-our patience was growing mighty thin.
+nuestra paciencia se estaba acabando.
 
 214
 00:11:33,413 --> 00:11:34,925
-- (laughing) Yeah, yeah.
+- Sí, sí.
 
 215
 00:11:34,925 --> 00:11:36,651
-And then when you got it, (laughing)
+Y luego cuando lo instalaste,
 
 216
 00:11:36,651 --> 00:11:38,443
-it still took 45 minutes to load
+tambien tardó 45 minutos en cargarse
 
 217
 00:11:38,443 --> 00:11:42,459
-and then it crashed, didn't it? (laughing)
+y luego se cayó, ¿no?
 
 218
 00:11:42,459 --> 00:11:46,042
-- Yes, Jerry, that's
-exactly what happened.
+- Sí, Jerry, eso es
+exactamente lo que pasó
 
 219
 00:11:48,099 --> 00:11:50,427
-Needless to say, we cancelled our license
+No hace falta decir que cancelamos nuestra licencia
 
 220
 00:11:50,427 --> 00:11:52,467
-and got on about our business.
+y nos volvimos al negocio.
 
 221
 00:11:52,467 --> 00:11:55,339
-From our point of view,
-that product was dead.
+Desde nuestro punto de vista,
+ese producto estaba muerto.
 
 222
 00:11:55,339 --> 00:11:56,552
-(beeping sounds)
+
 
 223
 00:11:56,552 --> 00:11:57,739
-- [Broadcaster] We interrupt this program
+- Interrumpimos este programa
 
 224
 00:11:57,739 --> 00:12:00,064
-to bring you a special news bulletin.
+para traerte un boletín de noticias especial.
 
 225
 00:12:00,064 --> 00:12:04,613
-Sword Inc., famed creator of
-the very popular C debugger
+Sword Inc., famoso creador de
+del muy popular depurador C
 
 226
 00:12:04,613 --> 00:12:08,780
-has declared bankruptcy and
-closed its doors forever.
+se ha declarado en bancarrota y
+cerró sus puertas para siempre
 
 227
 00:12:09,675 --> 00:12:13,842
-We now return you to your
-regularly scheduled program.
+Ahora volvemos con nuestra
+programacion habitual.
 
 228
-00:12:15,091 --> 00:12:18,749
-- Yeah, it was just a few
-months after that disastrous
+00:12:15.091 --> 00:12:18,749
+- Sí, solo fueron unos pocos
+meses después de esa desastroso
 
 229
 00:12:18,749 --> 00:12:21,101
-second release that the company tanked
+segunda versión que la compañía se quemó
 
 230
 00:12:21,101 --> 00:12:23,434
-and the product disappeared.
+y el producto desapareció
 
 231
 00:12:25,061 --> 00:12:28,061
-But that's not where the story ends.
+Pero no es ahí donde termina la historia.
 
 232
 00:12:29,840 --> 00:12:33,291
-A decade later, I was at a C++ conference,
+Una década después, estaba en una conferencia de C++,
 
 233
 00:12:33,291 --> 00:12:35,189
-and I met one of the developers who used
+y conocí a uno de los desarrolladores que solía
 
 234
 00:12:35,189 --> 00:12:37,867
-to work at Sword back then.
+trabajar en Sword en ese momento.
 
 235
 00:12:37,867 --> 00:12:42,034
-I asked him what happened,
-and he told me the story.
+Le pregunté qué había pasado,
+y él me contó la historia.
 
 236
 00:12:43,467 --> 00:12:46,707
-- Son, when we first started that project,
+- Hijo, cuando comenzamos ese proyecto,
 
 237
 00:12:46,707 --> 00:12:50,288
-those yahoos in marketing
-told us we had to be first
+esos yahoos en marketing
+nos dijeron que teníamos que ser los primeros
 
 238
 00:12:50,288 --> 00:12:52,117
-to market at all costs.
+para comercializar a toda costa.
 
 239
 00:12:52,117 --> 00:12:54,597
-If we weren't first to
-market, then there was
+Que si no éramos los primeros en
+el mercado, entonces
 
 240
 00:12:54,597 --> 00:12:56,888
-no point in even getting started.
+no tenía sentido ni siquiera para empezar.
 
 241
 00:12:56,888 --> 00:12:58,608
