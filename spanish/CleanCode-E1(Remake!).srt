@@ -1050,88 +1050,88 @@ no tenía sentido ni siquiera para empezar.
 
 241
 00:12:56,888 --> 00:12:58,608
-So we rushed, son.
+Entonces nos apuramos, hijo.
 
 242
 00:12:58,608 --> 00:13:01,728
-We rushed like a horse
-in a raging brush fire.
+Corrimos como un caballo
+en un furioso incendio.
 
 243
 00:13:01,728 --> 00:13:04,539
-Like a rabbit running
-from a snarling wolf.
+Como un conejo corriendo
+de un lobo gruñendo.
 
 244
 00:13:04,539 --> 00:13:08,019
-We rushed, and we made one hell of a mess.
+Corrimos e hicimos un desastre.
 
 245
 00:13:08,019 --> 00:13:10,277
-When we were done, that
-code looked like a whole
+Cuando terminamos, ese
+código parecía que toda una
 
 246
 00:13:10,277 --> 00:13:14,027
-herd of hungry hogs had
-stampeded through it.
+manada de cerdos hambrientos le
+había pasado encima.
 
 247
 00:13:15,056 --> 00:13:18,645
-I tell you, son, it was a
-miracle that code worked at all.
+Te digo, hijo, fue un
+milagro ese código funcionara en absoluto.
 
 248
 00:13:18,645 --> 00:13:22,024
-And getting it working,
-well, that was a bunch of
+Y ponerlo en funcionamiento,
+bueno, eso fue un montón de
 
 249
 00:13:22,024 --> 00:13:24,744
-bailin', and hailin', and
-hookin', and crookin',
+parches, ganchos,
+revolturas, enredos,
 
 250
 00:13:24,744 --> 00:13:27,744
-and duct tape, and all
-kinds of shenanigans,
+y cinta adhesiva, y toda
+clase de malabares,
 
 251
 00:13:27,744 --> 00:13:30,616
-but we got it working,
-son, we got it working
+pero lo teníamos funcionando,
+hijo, lo teníamos funcionando
 
 252
 00:13:30,616 --> 00:13:33,116
-just by the skin of our teeth.
+a duras penas.
 
 253
 00:13:34,595 --> 00:13:37,245
-Of course, then, it was all we could do
+Por supuesto, entonces, fue todo lo que pudimos hacer
 
 254
 00:13:37,245 --> 00:13:40,133
-to keep it working, son,
-'cause there was always
+para mantenerlo funcionando, hijo,
+porque siempre había
 
 255
 00:13:40,133 --> 00:13:44,093
-another bug fix or some
-high priority feature.
+otra corrección de errores o alguna
+característica de alta prioridad.
 
 256
 00:13:44,093 --> 00:13:46,405
-The customers kept on wanting to write
+Los clientes siguieron queriendo escribir
 
 257
 00:13:46,405 --> 00:13:49,915
-bigger and bigger programs
-and go faster and faster.
+programas cada vez más grandes
+e ir más rápido y más rápido.
 
 258
 00:13:49,915 --> 00:13:53,245
-So we kept right on rushin',
-son, there was no time
+Así que nos seguimos apurando,
+hijo, no hubo tiempo
 
 259
 00:13:53,245 --> 00:13:56,464
