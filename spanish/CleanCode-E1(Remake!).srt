@@ -1131,230 +1131,230 @@ e ir más rápido y más rápido.
 258
 00:13:49,915 --> 00:13:53,245
 Así que nos seguimos apurando,
-hijo, no hubo tiempo
+hijo, no había tiempo de
 
 259
 00:13:53,245 --> 00:13:56,464
-to go back and clean nothin'
-up 'cause there was always
+regresar y limpiar nada
+porque siempre había
 
 260
 00:13:56,464 --> 00:14:00,675
-some new thing, some maximum
-priority thingamawhats,
+algo nuevo, otra cosa con
+mayor prioridad, por la que
 
 261
 00:14:00,675 --> 00:14:03,299
-that some customer had to be satisfied.
+que algún cliente tenía que estar satisfecho.
 
 262
 00:14:03,299 --> 00:14:06,821
-We never managed to clean it, son.
+Nunca logramos limpiarlo, hijo.
 
 263
 00:14:06,821 --> 00:14:11,000
-And then, son, why, they
-dropped a mother lode
+Y luego, hijo, ¿por qué?
+dejó caer una veta madre
 
 264
 00:14:11,000 --> 00:14:12,907
-of horse manure on the fan.
+de estiércol de caballo en el ventilador.
 
 265
 00:14:12,907 --> 00:14:15,877
-They told us we had just a few months
+Nos dijeron que solo teníamos unos meses
 
 266
 00:14:15,877 --> 00:14:18,877
-to get the whole thing workin' with C++.
+para que funcionara todo con C++.
 
 267
 00:14:18,877 --> 00:14:23,408
-C++, son, do you know how hard
-it is to parse that language?
+C++, hijo, ¿sabes qué tan difícil
+es parsear ese lenguaje?
 
 268
 00:14:23,408 --> 00:14:25,368
-Well, it ain't easy, let me tell ya.
+Bueno, no es fácil, déjame decirte.
 
 269
 00:14:25,368 --> 00:14:28,517
-Now, we looked at that, we said,
-"That was just impossible."
+Ahora, cuando vimos eso, dijimos,
+"Eso era simplemente imposible".
 
 270
 00:14:28,517 --> 00:14:31,725
-That code was already a
-mess, it was more tangled
+Ese código ya era un
+desastre, estaba más enredado
 
 271
-00:14:31,725 --> 00:14:34,225
-than a hay stack in a tornado.
+00: 14: 31,725 ​​-> 00: 14: 34,225
+que un pajar en un tornado.
 
 272
 00:14:35,355 --> 00:14:38,424
-Oh, we tried, son, we tried alright.
+Oh, lo intentamos, hijo, lo intentamos bien.
 
 273
 00:14:38,424 --> 00:14:41,515
-We worked on that like a mare giving birth
+Estábamos trabajando en dar a luz
 
 274
 00:14:41,515 --> 00:14:43,323
-to a full-grown stallion.
+a un semental adulto.
 
 275
 00:14:43,323 --> 00:14:46,064
-We worked in the mornings,
-we worked in the evenings,
+Trabajamos por las mañanas
+trabajamos por las tardes,
 
 276
 00:14:46,064 --> 00:14:47,861
-we worked on the weekends.
+trabajamos los fines de semana
 
 277
 00:14:47,861 --> 00:14:50,800
-We worked and we worked and we worked.
+Trabajamos y trabajamos y trabajamos.
 
 278
 00:14:50,800 --> 00:14:53,157
-And we failed, son, we failed.
+Y fallamos, hijo, fallamos.
 
 279
 00:14:53,157 --> 00:14:57,027
-We couldn't make that tangled
-mess of code parse C++.
+No pudimos hacer que ese código
+enredado parseara C++.
 
 280
 00:14:57,027 --> 00:14:59,610
-It was a consign disaster, son.
+Fue un desastre en consigna, hijo.
 
 281
 00:15:00,555 --> 00:15:02,163
-And the reason we failed
+Y la razón por la que fallamos
 
 282
 00:15:02,163 --> 00:15:05,580
-was because we rushed in the first place.
+fue porque nos apresuramos en primer lugar.
 
 283
 00:15:06,573 --> 00:15:10,173
-- Okay, I admit it, I embellished
-that a little bit, but
+- Está bien, lo admito, exageré
+un poco, pero
 
 284
 00:15:10,173 --> 00:15:13,848
-not actually by very much and
-not in any substantive way.
+no en realidad por mucho y
+no de ninguna manera sustantiva.
 
 285
 00:15:13,848 --> 00:15:17,400
-What the guy told me was that
-they rushed that C product
+Lo que el chico me dijo que
+se apuraron con ese producto C
 
 286
 00:15:17,400 --> 00:15:19,859
-to market and made a
-huge mess in doing it.
+para comercializarlo e hicieron un
+gran desorden al intentar desarrollarlo.
 
 287
 00:15:19,859 --> 00:15:23,080
-And then they couldn't transition to C++.
+Y luego no pudieron hacer la transición a C++.
 
 288
 00:15:23,080 --> 00:15:26,320
-They saw their C market dwindling
-away out from underneath
+Vieron que su mercado C menguaba
+lejos debajo de
 
 289
 00:15:26,320 --> 00:15:29,437
-them, and they couldn't follow it into C++
+ellos, y no pudieron seguirlo en C++
 
 290
 00:15:29,437 --> 00:15:33,667
-because of the mess
-they'd made in the code.
+debido al desastre
+que hicieron en el código.
 
 291
 00:15:33,667 --> 00:15:36,069
-- It would appear that Sword Inc. was
+- Parece que Sword Inc. fue
 
 292
 00:15:36,069 --> 00:15:38,928
-destroyed by its own bad code.
+destruida por su propio código malo.
 
 293
 00:15:38,928 --> 00:15:41,208
-At least in their case, the premise that
+Al menos en su caso, la premisa de que
 
 294
 00:15:41,208 --> 00:15:44,625
-good code matters was not fragile at all.
+el buen código no fue frágil en absoluto.
 
 295
 00:15:46,336 --> 00:15:49,169
-- Yeah, okay, like, you know,
+- Sí, está bien, como, ya sabes,
 
 296
 00:15:49,169 --> 00:15:51,952
-sure, but, but, like, why?
+seguro, pero, pero, como, por qué?
 
 297
 00:15:51,952 --> 00:15:56,119
-I mean what was it about the
-bad code that killed them?
+Quiero decir, que tenía el código
+de malo para haberlos matado?
 
 298
 00:15:57,109 --> 00:16:00,411
-(beeping sounds)
+(pitidos)
 
 299
 00:16:00,411 --> 00:16:03,078
-(keys clicking)
+(teclas haciendo clic)
 
 300
 00:16:06,051 --> 00:16:09,800
-- Have you ever worked
-on a greenfield project?
+- ¿Alguna vez has trabajado
+en un proyecto desde un inicio?
 
 301
 00:16:09,800 --> 00:16:13,280
-Do you remember how productive it was?
+¿Recuerdas lo productivo que era?
 
 302
 00:16:13,280 --> 00:16:14,819
-(keys clicking)
+(teclas haciendo clic)
 
 303
 00:16:14,819 --> 00:16:18,488
-Do you remember how lightning
-crackled from your finger tips
+¿Recuerdas cómo un rayo
+crepitaba desde la punta de tus dedos
 
 304
 00:16:18,488 --> 00:16:22,493
-as you got feature after feature working.
+a medida que terminabas cada funcionalidad?.
 
 305
 00:16:22,493 --> 00:16:24,005
-- Yeah, (laughs) yeah, yeah.
+- Sí, (risas) sí, sí.
 
 306
 00:16:24,005 --> 00:16:26,195
-I could just blast a whole
-bunch of features together
+Podría terminar todo un
+conjunto de funcionalidades juntas
 
 307
 00:16:26,195 --> 00:16:28,083
-in just a few hours. (laughing)
+en solo unas pocas horas. (Risa)
 
 308
 00:16:28,083 --> 00:16:31,149
-It was fun. (laughing)
+Era divertido. (Risa)
 
 309
 00:16:31,149 --> 00:16:34,717
-- Yeah, man, like, you
-know, they would come to me
+- Sí, tú, como tú
+Sabes, vendrían a mí
 
 310
 00:16:34,717 --> 00:16:37,605
