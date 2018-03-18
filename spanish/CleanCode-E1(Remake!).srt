@@ -2662,39 +2662,39 @@ cola, quemando mucha energía.
 
 601
 00:32:48,883 --> 00:32:51,633
-But you're not getting anywheres.
+Pero no estás yendo a ningún lugar.
 
 602
 00:32:53,064 --> 00:32:55,564
-- And so the weeks will go by.
+- Y entonces las semanas pasarán.
 
 603
 00:32:56,483 --> 00:33:01,024
-Two weeks, three weeks,
-four weeks, six weeks,
+Dos semanas, tres semanas,
+cuatro semanas, seis semanas,
 
 604
 00:33:01,024 --> 00:33:02,912
-and then your boss will come by
+y luego tu jefe vendrá
 
 605
 00:33:02,912 --> 00:33:06,032
-to find out what happened
-to your three week estimate,
+para descubrir lo que pasó
+a su estimación de tres semanas,
 
 606
 00:33:06,032 --> 00:33:09,744
-and you will undoubtedly
-emit the pathetic phrase
+y tu indudablemente
+dirás la frase patética
 
 607
 00:33:09,744 --> 00:33:13,893
-that so many software developers
-have said in the past,
+que tantos desarrolladores de software
+han dicho en el pasado,
 
 608
 00:33:13,893 --> 00:33:17,483
-"It was more complicated than I thought."
+"Fue más complicado de lo que pensaba".
 
 609
 00:33:17,483 --> 00:33:18,316
@@ -2702,180 +2702,180 @@ Hmph.
 
 610
 00:33:21,891 --> 00:33:24,051
-- Yeah, that's a rigid system.
+- Sí, ese es un sistema rígido.
 
 611
 00:33:24,051 --> 00:33:26,320
-And it shows one of the
-most frustrating things
+Y muestra una de las
+cosas más frustrantes
 
 612
 00:33:26,320 --> 00:33:30,211
-about rigid systems: their
-wild unpredictability.
+sobre sistemas rígidos: su
+impredecibilidad salvaje.
 
 613
 00:33:30,211 --> 00:33:33,861
-Estimating a fix or an
-enhancement is fraught with error
+La estimacion de un fix o una
+mejora está plagada de errores
 
 614
 00:33:33,861 --> 00:33:36,531
-because it's impossible to
-properly determine the number
+porque es imposible
+determinar correctamente el número
 
 615
 00:33:36,531 --> 00:33:39,320
-of modules that will actually be changed.
+de módulos que realmente serán modificados.
 
 616
 00:33:39,320 --> 00:33:42,320
-And so rigid systems blow estimates.
+Y entonces los sistemas rígidos echan a perder las estimaciones.
 
 617
 00:33:43,301 --> 00:33:44,134
-- (Laughing) Yeah.
+- (Risas) Sí.
 
 618
 00:33:44,134 --> 00:33:45,616
-(laughing) Boom!
+(risas) Boom!
 
 619
 00:33:45,616 --> 00:33:47,866
-(laughing)
+(riendo)
 
 620
 00:33:48,733 --> 00:33:51,733
-(mechanical sounds)
+(sonidos mecánicos)
 
 621
 00:33:53,701 --> 00:33:56,851
-- A fragile system is a
-system that malfunctions
+- Un sistema frágil es un
+sistema que funciona mal
 
 622
 00:33:56,851 --> 00:33:59,571
-in many unpredictable ways when a
+de muchas maneras impredecibles cuando
 
 623
 00:33:59,571 --> 00:34:01,988
-single simple change is made.
+se realiza un simple cambio simple.
 
 624
 00:34:03,899 --> 00:34:07,179
-- We say that a system is fragile
+- Decimos que un sistema es frágil
 
 625
 00:34:07,179 --> 00:34:10,317
-when the repair of a single bug
+cuando la reparación de un solo error
 
 626
 00:34:10,317 --> 00:34:13,608
-or the addition of a single new feature
+o la adición de una nueva función
 
 627
 00:34:13,608 --> 00:34:17,320
-causes a malfunction in
-one or many other parts
+causa un mal funcionamiento en
+una o muchas otras partes
 
 628
 00:34:17,320 --> 00:34:19,840
-of the system that have no connection
+del sistema que no tiene conexión
 
 629
 00:34:19,840 --> 00:34:22,423
-with the part that was changed.
+con la parte que fue cambiada
 
 630
 00:34:23,971 --> 00:34:27,221
-- I know, you want another
-example, don't you?
+- Lo sé, quieres otro
+ejemplo, ¿no?
 
 631
 00:34:27,221 --> 00:34:31,069
-Well, this here fella's got a good one.
+Bueno, este tipo tiene una buena.
 
 632
 00:34:31,069 --> 00:34:33,656
-- Long ago, I worked on a system
+- Hace mucho tiempo, trabajé en un sistema
 
 633
 00:34:33,656 --> 00:34:36,277
-that tested telephone lines.
+que probaba líneas telefónicas.
 
 634
 00:34:36,277 --> 00:34:39,808
-This system had 24 ASCII terminals
+Este sistema tenía 24 terminales ASCII
 
 635
 00:34:39,808 --> 00:34:42,317
-connected to a central mini computer.
+conectadas a una mini computadora central.
 
 636
 00:34:42,317 --> 00:34:46,877
-The user interface was
-character based and menu driven.
+La interfaz de usuario estaba
+basada en caracteres y dirigida por menús.
 
 637
 00:34:46,877 --> 00:34:49,688
-And the menus were hierarchical.
+Y los menús eran jerárquicos
 
 638
 00:34:49,688 --> 00:34:52,808
-Deep down in one of the sub menus,
+En el fondo de uno de los submenús,
 
 639
 00:34:52,808 --> 00:34:55,757
-there was a grammatical error.
+habia un error gramatical.
 
 640
 00:34:55,757 --> 00:34:58,924
-The word progress was spelled process.
+El progreso de la palabra fue un proceso deletreado.
 
 641
 00:34:59,907 --> 00:35:01,387
-We all knew about this error.
+Todos sabíamos acerca de este error.
 
 642
 00:35:01,387 --> 00:35:03,587
-We all cringed whenever we saw it,
+Todos nos encogíamos cada vez que lo veíamos,
 
 643
 00:35:03,587 --> 00:35:07,254
-but there was never a
-good reason to fix it.
+pero nunca hubo un
+buena razón para arreglarlo.
 
 644
 00:35:08,608 --> 00:35:10,928
-Then one day, I was working in a module
+Entonces, un día, estaba trabajando en un módulo
 
 645
 00:35:10,928 --> 00:35:15,157
-and I happened to scroll past
-the string for that menu.
+y pasó que me desplacé por
+la cadena de ese menú.
 
 646
 00:35:15,157 --> 00:35:18,456
-It was an easy thing to
-change, so I changed it.
+Fue algo fácil de
+cambiar, así que lo cambié.
 
 647
 00:35:18,456 --> 00:35:22,072
-I felt pretty good about that too.
+Me sentí muy bien acerca de eso también.
 
 648
 00:35:22,072 --> 00:35:25,200
-Of course, I compiled it and I tested it.
+Por supuesto, lo compilé y lo probé.
 
 649
 00:35:25,200 --> 00:35:28,421
-I brought it up on the screen
-to make sure that it fit
+Lo probé en la pantalla
+para asegurarme de que encajara
 
 650
 00:35:28,421 --> 00:35:31,784
-and there weren't any other
-issues, and there weren't.
+y no hubo ningún otro
+problemas, no lo hubo.
 
 651
 00:35:31,784 --> 00:35:34,413
