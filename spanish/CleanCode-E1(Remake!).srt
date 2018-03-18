@@ -1564,167 +1564,167 @@ el código los está volviendo lentos,
 
 354
 00:19:13,699 --> 00:19:17,616
-so the harder they work,
-the slower they'll go.
+así que cuanto más duro trabajan,
+más lento van.
 
 355
 00:19:21,128 --> 00:19:24,549
-- And so, despite the
-pressure, the threats,
+- Y entonces, a pesar de la
+presión, las amenazas,
 
 356
 00:19:24,549 --> 00:19:28,269
-the deadlines, and the
-overtime, the productivity still
+los plazos y el
+tiempo extra, la productividad aún
 
 357
 00:19:28,269 --> 00:19:32,102
-dwindles, and the scary
-gap looms ever larger.
+mengua, y el miedo a
+la brecha se agranda cada vez más.
 
 358
 00:19:34,749 --> 00:19:38,232
-- [Professor] It seems to
-me that the solution to this
+- [Profesor] ​​Me parece
+que la solución a este
 
 359
 00:19:38,232 --> 00:19:41,912
-problem is to hire more programmers.
+problema es contratar a más programadores.
 
 360
 00:19:41,912 --> 00:19:46,079
-After all, if you double the
-staff, you double your speed.
+Después de todo, si duplicas el
+personal, doblas tu velocidad.
 
 361
 00:19:48,432 --> 00:19:50,421
-- Well, not quite.
+- Bueno, no del todo.
 
 362
 00:19:50,421 --> 00:19:54,893
-You see, there's this
-thing called Brooks' law
+Verás, existe esta
+cosa llamada "la ley de Brooks"
 
 363
 00:19:54,893 --> 00:19:58,981
-which states that adding
-manpower to a late project
+que dice que agregar
+mano de obra a un proyecto tardío
 
 364
 00:19:58,981 --> 00:20:00,231
-makes it later.
+lo hace más lento.
 
 365
 00:20:02,541 --> 00:20:04,363
-It works like this.
+Funciona así.
 
 366
 00:20:04,363 --> 00:20:07,872
-The team is working along at
-this level of productivity,
+El equipo está trabajando junto a
+este nivel de productividad,
 
 367
 00:20:07,872 --> 00:20:10,952
-and then we decide to add more staff.
+y luego decidimos agregar más personal.
 
 368
 00:20:10,952 --> 00:20:14,013
-The productivity plummets
-for a few weeks or months
+La productividad cae en picada
+por algunas semanas o meses
 
 369
-00:20:14,013 --> 00:20:17,693
-as the new people suck the
-life out of the old people,
+00:20:14.013 --> 00:20:17.693
+como las nuevas personas chupan la
+vida de las personas mayores,
 
 370
 00:20:17,693 --> 00:20:20,432
-but then the new people start to get smart
+pero luego las nuevas personas comienzan a ser inteligentes
 
 371
 00:20:20,432 --> 00:20:22,763
-and their productivity rises.
+y su productividad aumenta.
 
 372
 00:20:22,763 --> 00:20:26,930
-In theory, it should rise
-above where it was before.
+En teoría, debería aumentar
+arriba donde estaba antes.
 
 373
 00:20:28,803 --> 00:20:31,803
-- Except for one small logical flaw.
+- Excepto por un pequeño error lógico.
 
 374
 00:20:33,293 --> 00:20:36,710
-Precisely who is teaching the new people?
+¿Precisamente quién enseña a las personas nuevas?
 
 375
 00:20:38,243 --> 00:20:40,512
-- The people who did this.
+- Las personas que hicieron esto.
 
 376
 00:20:40,512 --> 00:20:44,011
-And it's not just the old
-people teaching the new people,
+Y no es solo son las viejas
+personas que enseñan a las personas nuevas,
 
 377
 00:20:44,011 --> 00:20:47,511
-it's the old code teaching the new people.
+es el código viejo que enseña a las personas nuevas.
 
 378
 00:20:49,712 --> 00:20:52,731
-The more the new people
-read through the old code
+Cuantas más personas nuevas
+leen el código viejo
 
 379
 00:20:52,731 --> 00:20:55,848
-and deal with the old
-code, the more they realize
+y lidian con el código
+viejo, más se dan cuenta
 
 380
 00:20:55,848 --> 00:20:58,568
-how things are done around here.
+cómo se hacen las cosas por aquí.
 
 381
 00:20:58,568 --> 00:21:01,917
-And so they emulate the
-behaviors that made the mess in
+Y entonces ellos emulan el
+comportamientos que hicieron el lío en
 
 382
 00:21:01,917 --> 00:21:06,084
-the first place, and, of course,
-the mess continues to grow.
+primer lugar, y, por supuesto,
+el desastre continúa creciendo
 
 383
 00:21:07,355 --> 00:21:11,464
-And so all hope of increasing
-productivity is dashed
+Y así todas las esperanzas de aumentar
+la productividad se frenan
 
 384
 00:21:11,464 --> 00:21:15,784
-as the increasing mess
-overwhelms the new staff
+mientras el creciente desastre
+abruma al nuevo personal
 
 385
 00:21:15,784 --> 00:21:19,951
-and the productivity resumes
-its inexorable downward trend.
+y la productividad reanuda
+su tendencia inexorable a la baja.
 
 386
 00:21:22,528 --> 00:21:25,000
-- Except now the business is spending
+- Excepto que ahora el negocio está gastando
 
 387
 00:21:25,000 --> 00:21:27,768
-much more money on that new staff.
+mucho más dinero en ese nuevo personal.
 
 388
 00:21:27,768 --> 00:21:29,989
-And so the scary gap has gotten
+Y entonces la espantosa brecha se ha vuelto
 
 389
 00:21:29,989 --> 00:21:32,168
-quite a bit scarier, hasn't it?
+un poco más aterradora, ¿no?
 
 390
 00:21:32,168 --> 00:21:33,001
@@ -1732,48 +1732,48 @@ Hmph!
 
 391
 00:21:34,027 --> 00:21:35,163
-- Right.
+- Correcto.
 
 392
 00:21:35,163 --> 00:21:38,328
-Cash flow increases by a
-step function when you add
+El flujo de efectivo aumenta en
+función de paso cuando se agrega
 
 393
 00:21:38,328 --> 00:21:42,037
-new staff, and the decreasing
-productivity makes that
+nuevo personal, y la disminución
+la productividad hace la
 
 394
 00:21:42,037 --> 00:21:44,370
-scary gap that much scarier.
+espantosa brecha más aterradora.
 
 395
 00:21:45,867 --> 00:21:47,907
-- (laughing) Yeah, maybe that was a fluke.
+- (risas) Sí, tal vez fue un golpe de suerte.
 
 396
 00:21:47,907 --> 00:21:49,792
-(laughing) Let's try it again.
+(riendo) Probémoslo de nuevo.
 
 397
 00:21:49,792 --> 00:21:52,544
-(laughing)
+(riendo)
 
 398
 00:21:52,544 --> 00:21:56,085
-- Indeed, lots of businesses
-try this many times
+- De hecho, muchas empresas
+intenta esto muchas veces
 
 399
 00:21:56,085 --> 00:21:59,115
-because, after all, the
-definition of sanity
+porque, después de todo, la
+definición de cordura
 
 400
 00:21:59,115 --> 00:22:02,443
-is to repeat a failing
-strategy until it succeeds.
+es repetir una fallida
+estrategia hasta que tenga éxito.
 
 401
 00:22:02,443 --> 00:22:04,973
