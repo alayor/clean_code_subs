@@ -1358,209 +1358,209 @@ Sabes, vendrían a mí
 
 310
 00:16:34,717 --> 00:16:37,605
-and they'd ask me for a feature.
+y me solían pedir una funcionalidad.
 
 311
 00:16:37,605 --> 00:16:41,643
-And I, I'd, like, have it ready
-for 'em that same afternoon.
+Y yo, la tenía lista
+para ellos esa misma tarde.
 
 312
 00:16:41,643 --> 00:16:44,976
-And so they really thought I was a hero.
+Y entonces ellos realmente pensaban que yo era un héroe.
 
 313
 00:16:46,443 --> 00:16:50,333
-- Yeah, I'm sure it felt like
-you were going real fast,
+- Sí, estoy seguro de que se sentía como
+estabas yendo muy rápido,
 
 314
 00:16:50,333 --> 00:16:52,315
-but it didn't last, did it?
+pero no duró, ¿verdad?
 
 315
 00:16:52,315 --> 00:16:55,133
-As the months went by, I'll
-bet you started feeling
+A medida que pasaron los meses,
+apuesto a que comenzaste a sentirte
 
 316
 00:16:55,133 --> 00:16:59,216
-slower and slower until
-you were barely crawling.
+más y más lento, hasta sentir que
+apenas estabas gateando.
 
 317
 00:17:01,093 --> 00:17:03,179
-That's what happens to projects.
+Eso es lo que sucede con los proyectos.
 
 318
 00:17:03,179 --> 00:17:06,179
-They start out fast, but then after a few
+Empiezan rápido, pero luego de unos pocos
 
 319
 00:17:06,179 --> 00:17:10,248
-weeks or months, they slow way, way down.
+semanas o meses, se alentan demasiado.
 
 320
 00:17:10,248 --> 00:17:11,579
-And why?
+¿Y por qué?
 
 321
 00:17:11,579 --> 00:17:15,246
-Because there's a mess
-building in the code.
+Porque hacen un desastre
+con en el código.
 
 322
 00:17:16,349 --> 00:17:19,989
-The more that mess grows,
-the harder it becomes
+Cuanto más crece el desastre,
+más difícil se vuelve
 
 323
 00:17:19,989 --> 00:17:23,560
-to add new features or
-change existing code
+para agregar nuevas características o
+cambiar el código existente
 
 324
 00:17:23,560 --> 00:17:27,488
-until, finally, things that
-would have taken you days
+hasta que, finalmente, cosas que
+te hubiera llevado días
 
 325
 00:17:27,488 --> 00:17:31,655
-at the beginning now take
-you weeks or even months.
+al principio ahora toma
+semanas o incluso meses.
 
 326
 00:17:33,947 --> 00:17:37,699
-But now think of it from
-the manager's point of view.
+Pero ahora piensa en ello desde
+el punto de vista del gerente.
 
 327
 00:17:37,699 --> 00:17:40,088
-They saw how fast you
-were going at the start,
+Vieron lo rápido que
+estaban yendo al principio,
 
 328
 00:17:40,088 --> 00:17:43,208
-and they laid their plans
-based on that speed.
+y ellos pusieron sus planes
+basado en esa velocidad
 
 329
 00:17:43,208 --> 00:17:48,077
-They made promises to
-customers based on that speed.
+Hicieron promesas de
+clientes basados ​​en esa velocidad.
 
 330
 00:17:48,077 --> 00:17:51,339
-They don't understand why you slowed down.
+No entienden por qué disminuiste la velocidad.
 
 331
 00:17:51,339 --> 00:17:54,371
-All they understand is that
-now they're looking at this
+Todo lo que entienden es que
+ahora están viendo esta
 
 332
 00:17:54,371 --> 00:17:59,360
-very scary gap, a gap that's
-costing them a lot of money
+brecha muy aterradora, una brecha que es
+les cuesta mucho dinero
 
 333
 00:17:59,360 --> 00:18:03,848
-and forcing them to
-break a lot of promises.
+y obligándolos a
+romper muchas promesas
 
 334
 00:18:03,848 --> 00:18:07,219
-What would you do if you
-were one of those managers
+Que harías si tu
+fueron uno de esos gerentes
 
 335
 00:18:07,219 --> 00:18:10,019
-and you saw your carefully
-laid business plans
+y ver tus cuidadosos
+planes de negocios establecidos
 
 336
 00:18:10,019 --> 00:18:12,784
-going up in smoke because the programmers
+esfumarse porque los programadores
 
 337
 00:18:12,784 --> 00:18:15,992
-had inexplicably slowed down?
+se habían vuelto lentos inexplicablemente?
 
 338
 00:18:15,992 --> 00:18:19,483
-What would you do if you saw
-the profit you expected turn
+¿Qué harías si vieras
+la ganancia esperada convertirse
 
 339
 00:18:19,483 --> 00:18:23,650
-into a huge loss because the
-programmers were going so slow?
+en una gran pérdida porque
+los programadores estaban trabajando lento?
 
 340
 00:18:25,661 --> 00:18:29,061
-- I would remind them of
-the mission and suggest
+- Les recordaría
+la misión y sugeriría
 
 341
 00:18:29,061 --> 00:18:33,144
-that they find a more
-intelligent way of working.
+que encuentren una forma
+más inteligente de trabajar.
 
 342
 00:18:34,808 --> 00:18:37,469
-- Gosh, Uncle Bob, I
-think I'd just kind of
+- Dios, Uncle Bob, yo
+creo que lo que haría sería
 
 343
 00:18:37,469 --> 00:18:39,563
-sit them all down for some coffee or
+sentarlos a todos para tomar un café o
 
 344
 00:18:39,563 --> 00:18:43,525
-maybe some herbal tea and ask
-them what their issues were.
+tal vez un poco de té de hierbas y preguntarles
+cuáles fueron sus problemas.
 
 345
 00:18:43,525 --> 00:18:45,829
-In the end, I think I'd probably end up
+Al final, creo que probablemente terminaría
 
 346
 00:18:45,829 --> 00:18:49,288
-begging them to go faster. (laughing)
+rogándoles que fueran más rápido. (riendo)
 
 347
 00:18:49,288 --> 00:18:52,915
-- Well, I'd tell those lazy
-slackers to get moving.
+- Bueno, yo les diría a esos osos
+perezosos que se pusieran en movimiento.
 
 348
 00:18:52,915 --> 00:18:56,667
-I'd tighten their deadlines,
-I'd mandate overtime.
+Apretaría sus fechas límite,
+Los haría trabajar horas extras.
 
 349
 00:18:56,667 --> 00:19:00,834
-And if any of them complained,
-I'd show them the airlock.
+Y si alguno de ellos se quejaba,
+les mostraría la cámara de aire.
 
 350
 00:19:01,672 --> 00:19:04,955
-- Of course none of that is
-going to do a bit of good
+- Por supuesto, nada de eso
+va a hacer ni un poco de bien
 
 351
 00:19:04,955 --> 00:19:07,864
-because the problem is
-not that the programmers
+porque el problema
+no es que los programadores
 
 352
 00:19:07,864 --> 00:19:10,419
-aren't working hard, they are.
+no están trabajando duro, lo están.
 
 353
 00:19:10,419 --> 00:19:13,699
-The problem is that the
-code is slowing them down,
+El problema es que
+el código los está volviendo lentos,
 
 354
 00:19:13,699 --> 00:19:17,616
