@@ -3097,242 +3097,242 @@ Solo hay una trampa.
 El auto de mi cuñado tiene un trailer.
 
 701
-00:38:11,795 --> 00:38:13,608
-(honking)
-And this trailer ain't coupled
+00:38:11.795 --> 00:38:13.608
+(tocando la bocina)
+Y este trailer no estaba acoplado
 
 702
 00:38:13,608 --> 00:38:16,312
-to the back of the car
-with no hitch, no sir.
+a la parte trasera del auto
+sin problemas, no señor.
 
 703
 00:38:16,312 --> 00:38:19,333
-That trailer's welded
-onto the back of that car.
+Ese remolque estaba soldado
+en la parte posterior de ese auto.
 
 704
 00:38:19,333 --> 00:38:21,173
-The rear brakes have been
-taken away from the car
+Los frenos traseros han sido
+quitado del automóvil
 
 705
 00:38:21,173 --> 00:38:23,360
-and put on the back wheels of the trailer.
+y puestos en las ruedas traseras del remolque.
 
 706
 00:38:23,360 --> 00:38:25,651
-The rear lights have been put
-on the back of the trailer.
+Las luces traseras se han puesto
+en la parte posterior del remolque.
 
 707
 00:38:25,651 --> 00:38:28,234
-The trailer is part of the car.
+El trailer es parte del auto.
 
 708
 00:38:30,160 --> 00:38:34,621
-Now I gots me a really small
-garage, and that trailer car,
+Ahora me da un muy pequeño
+garaje, y ese auto remolque,
 
 709
 00:38:34,621 --> 00:38:37,280
-well, it just ain't
-gonna fit in that garage.
+bueno, simplemente no va
+a caber en ese garaje.
 
 710
 00:38:37,280 --> 00:38:40,259
-So I got to get rid of the
-trailer off the back of that car.
+Así que tengo que deshacerme de la
+trailer de la parte trasera de ese auto.
 
 711
 00:38:40,259 --> 00:38:41,829
-I go take it to a mechanic.
+Voy a llevarlo a un mecánico.
 
 712
 00:38:41,829 --> 00:38:44,888
-I say, mechanic, take the
-trailer off the back of this car.
+Yo digo, mecánico, quita el
+trailer de la parte trasera de este auto.
 
 713
 00:38:44,888 --> 00:38:47,227
-(honking)
-He looks at me like I'm crazy.
+(tocando la bocina)
+Él me mira como si estuviera loco.
 
 714
 00:38:47,227 --> 00:38:49,272
-He says, "You can't take
-the trailer off the back
+Él dice: "No puedes tomar
+el trailer de la parte posterior
 
 715
 00:38:49,272 --> 00:38:51,704
-"of this car, that
-trailer's part of the car.
+"de este auto, ese
+remolque es parte del auto.
 
 716
 00:38:51,704 --> 00:38:54,315
-"It costs you lots more
-than buying a new car.
+"Te costará mucho más
+que comprar un auto nuevo.
 
 717
 00:38:54,315 --> 00:38:59,144
-"And what's more, I'm not
-guaranteeing my work."
+"Y además, no te puedo
+garantizar el trabajo ".
 
 718
 00:38:59,144 --> 00:39:03,005
-- To continue this example,
-your boss comes to you one day
+- Para continuar este ejemplo,
+tu jefe viene a ti un día
 
 719
 00:39:03,005 --> 00:39:06,424
-and says, "You know that
-module you got to write?
+y dice: "Sabes ese
+módulo que tienes que escribir?
 
 720
 00:39:06,424 --> 00:39:09,413
-"Well, there's this guy,
-Joe, one floor below us
+"Bueno, hay este tipo,
+Joe, un piso debajo de nosotros
 
 721
 00:39:09,413 --> 00:39:12,304
-"who wrote a module just
-like it about a year ago.
+"¿Quién escribió un módulo justo
+como ese hace un año.
 
 722
 00:39:12,304 --> 00:39:14,355
-"You should go talk to
-Joe and see how much
+"Deberías ir a hablar con
+Joe y ver cuánto
 
 723
 00:39:14,355 --> 00:39:16,938
-"of that module you can reuse."
+"de ese módulo que puedes reutilizar".
 
 724
 00:39:18,443 --> 00:39:22,610
-Now, you know Joe, and you know
-the kind of code Joe writes.
+Ahora, conoces a Joe, y sabes
+el tipo de código que Joe escribe.
 
 725
 00:39:23,781 --> 00:39:27,861
-So you're not really anxious
-to go wading through his code
+Entonces no estás realmente ansioso
+ir vadeando a través de su código
 
 726
 00:39:27,861 --> 00:39:30,909
-to see if you can use any of it, but
+para ver si puedes usar algo de eso, pero
 
 727
 00:39:30,909 --> 00:39:34,076
-your boss asked, so you have to do it.
+tu jefe preguntó, entonces tienes que hacerlo.
 
 728
 00:39:35,261 --> 00:39:38,651
-So you get the code from
-Joe and you look it over.
+Entonces obtienes el código de
+Joe y lo vuelves a mirar.
 
 729
 00:39:38,651 --> 00:39:42,869
-And sure enough, it does
-exactly what you need.
+Y por supuesto, hace
+exactamente lo que necesitas
 
 730
 00:39:42,869 --> 00:39:44,786
-But it's got a trailer.
+Pero tiene un trailer.
 
 731
 00:39:48,469 --> 00:39:51,869
-Joe's code does a lot of
-things you don't need.
+El código de Joe hace mucha
+cosas que no necesitas
 
 732
 00:39:51,869 --> 00:39:54,640
-And you realize that the
-time and effort required
+Y te das cuenta de que el
+tiempo y esfuerzo requeridos
 
 733
 00:39:54,640 --> 00:39:57,411
-to decouple Joe's code so that you can
+desacoplar el código de Joe para que puedas
 
 734
 00:39:57,411 --> 00:40:00,861
-take the stuff you want and
-leave behind the stuff you don't
+toma lo que quieras y
+deshacerte de las cosas que no haces
 
 735
 00:40:00,861 --> 00:40:02,968
-is so large that you might as well
+es tan grande que también podrías
 
 736
 00:40:02,968 --> 00:40:05,551
-just write the module yourself.
+solo escribe el módulo tú mismo.
 
 737
 00:40:06,747 --> 00:40:09,504
-So you go back to your boss
-and you tell him that you
+Entonces vuelves a tu jefe
+y le dices que tú
 
 738
 00:40:09,504 --> 00:40:13,337
-can't use Joe's code
-because it's inseparable.
+no puede usar el código de Joe
+porque es inseparable
 
 739
 00:40:16,853 --> 00:40:20,184
-- Inseparable systems are unpredictable.
+- Los sistemas inseparables son impredecibles.
 
 740
 00:40:20,184 --> 00:40:22,933
-You never know if you
-can reuse the components
+Nunca se sabe si
+puede reutilizar los componentes
 
 741
 00:40:22,933 --> 00:40:24,965
-in the system, and so the changes
+en el sistema, y ​​entonces los cambios
 
 742
 00:40:24,965 --> 00:40:27,798
-cannot be reliably estimated, hmm.
+no se puede estimar confiablemente, hmm.
 
 743
 00:40:28,696 --> 00:40:31,696
-(mechanical sounds)
+(sonidos mecánicos)
 
 744
 00:40:33,864 --> 00:40:36,483
-- Opacity is the tendency of a system
+- Opacidad es la tendencia de un sistema
 
 745
 00:40:36,483 --> 00:40:40,733
-to be so ineptly structured
-that no amount of effort
+estar tan ineptamente estructurado
+que sin esfuerzo
 
 746
 00:40:40,733 --> 00:40:44,900
-can be applied to divine the
-author's original intent.
+se puede aplicar a la divina
+intención original del autor.
 
 747
 00:40:46,032 --> 00:40:48,699
-- We say that a system is opaque
+- Decimos que un sistema es opaco
 
 748
 00:40:49,552 --> 00:40:52,451
-when reading the code
-tells us little or nothing
+al leer el código
+nos dice poco o nada
 
 749
 00:40:52,451 --> 00:40:56,826
-about what the system
-does or the way it works.
+sobre lo que el sistema
+hace o la forma en que funciona.
 
 750
 00:40:56,826 --> 00:40:59,227
-(pigs grunting)
-- What they're trying to say
+(Cerdos gruñendo)
+- Lo que están tratando de decir
 
 751
 00:40:59,227 --> 00:41:00,677
-is that the code looks worse
+es que el código se ve peor
 
 752
 00:41:00,677 --> 00:41:03,260
