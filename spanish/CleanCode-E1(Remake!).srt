@@ -2879,134 +2879,134 @@ problemas, no lo hubo.
 
 651
 00:35:31,784 --> 00:35:34,413
-And so I added it to the list of changes
+Y entonces lo agregué a la lista de cambios
 
 652
 00:35:34,413 --> 00:35:37,580
-for the next release and I shipped it.
+para la próxima versión y lo instalé.
 
 653
 00:35:39,163 --> 00:35:42,843
-Hundreds of systems started
-crashing in the field.
+Cientos de sistemas comenzaron a
+fallar en el campo.
 
 654
 00:35:42,843 --> 00:35:45,779
-Not our systems, our customers' systems,
+No eran nuestros sistemas, eran los sistemas de nuestros clientes,
 
 655
 00:35:45,779 --> 00:35:47,555
-but they blamed us anyway.
+pero nos culparon de todos modos.
 
 656
 00:35:47,555 --> 00:35:49,691
-We had customers on the telephone.
+Teníamos clientes por teléfono.
 
 657
 00:35:49,691 --> 00:35:52,152
-We had managers rampaging around,
+Teníamos gerentes haciendo estragos,
 
 658
 00:35:52,152 --> 00:35:53,960
-pointing their fingers at people.
+señalando con sus dedos a las personas.
 
 659
 00:35:53,960 --> 00:35:57,627
-We had programmers
-hiding under their desks.
+Tuvimos programadores
+escondiéndose debajo de sus escritorios.
 
 660
 00:35:58,917 --> 00:36:03,624
-What I had forgotten was that
-in their infinite wisdom,
+Lo que había olvidado era que
+en su infinita sabiduría,
 
 661
 00:36:03,624 --> 00:36:07,235
-our marketing department
-had told our customer
+nuestro departamento de marketing
+le había dicho a nuestro cliente
 
 662
 00:36:07,235 --> 00:36:10,893
-that the best way to interface
-their systems to ours
+que la mejor forma de conectar
+sus sistemas con los nuestros
 
 663
 00:36:10,893 --> 00:36:12,813
-was to plug their computers into
+era conectar sus computadoras a
 
 664
 00:36:12,813 --> 00:36:16,221
-one of our RS232 terminal ports.
+uno de nuestros puertos de terminal RS232.
 
 665
 00:36:16,221 --> 00:36:17,923
-Of course, that meant that the customer's
+Por supuesto, eso significaba que el software
 
 666
 00:36:17,923 --> 00:36:20,883
-software had to parse our menus.
+del cliente tenia que parsear nuestros menús.
 
 667
 00:36:20,883 --> 00:36:22,632
-So when I changed that menu,
+Entonces cuando cambié ese menú,
 
 668
 00:36:22,632 --> 00:36:25,382
-it broke the customer's software.
+rompió el software del cliente.
 
 669
 00:36:26,363 --> 00:36:30,043
-My boss came to me and said,
-"What the hell did you do?!"
+Mi jefe vino a mí y me dijo:
+"¿Qué demonios hiciste?"
 
 670
 00:36:30,043 --> 00:36:32,603
-And I said, I fixed a spelling error.
+Y dije, arreglé un error de ortografía.
 
 671
 00:36:32,603 --> 00:36:35,936
-And he said, "Well, don't ever do that!"
+Y él dijo: "¡Bueno, nunca hagas eso!"
 
 672
 00:36:37,013 --> 00:36:40,603
-- And so a fragile system
-is a system that breaks
+- Y entonces un sistema frágil
+es un sistema que se rompe
 
 673
 00:36:40,603 --> 00:36:43,773
-in unintended and unpredictable ways
+de maneras no intencionadas e impredecibles
 
 674
 00:36:43,773 --> 00:36:46,549
-when simple changes are made.
+cuando se hacen cambios simples
 
 675
 00:36:46,549 --> 00:36:49,749
-Such systems are terrifying
-to managers and customers
+Tales sistemas son terroríficos
+a gerentes y clientes
 
 676
 00:36:49,749 --> 00:36:53,166
-because they are so wildly unpredictable.
+porque son muy impredecibles.
 
 677
 00:36:54,149 --> 00:36:57,400
-- Indeed, when systems are fragile,
+- De hecho, cuando los sistemas son frágiles,
 
 678
 00:36:57,400 --> 00:36:59,891
-customers and managers
-come to the conclusion
+clientes y gerentes
+llegan a la conclusión
 
 679
 00:36:59,891 --> 00:37:03,019
-that the software developers
-have lost control of their
+que los desarrolladores de software
+han perdido el control de su
 
 680
 00:37:03,019 --> 00:37:06,869
-software and don't know what
-the hell they are doing.
+software y no saben que
+demonios están haciendo.
 
 681
 00:37:06,869 --> 00:37:07,702
@@ -3014,87 +3014,87 @@ Hmph!
 
 682
 00:37:08,776 --> 00:37:11,776
-(mechanical sounds)
+(sonidos mecánicos)
 
 683
 00:37:13,875 --> 00:37:16,984
-- An inseparable system
-is a system in which
+- Un sistema inseparable
+es un sistema en el cual
 
 684
 00:37:16,984 --> 00:37:21,165
-those parts that might be
-profitably used in another system
+esas partes que podrían ser
+utilizadas de manera rentable en otro sistema
 
 685
 00:37:21,165 --> 00:37:24,998
-cannot be separated out
-from the first system.
+no se pueden separar
+del primer sistema
 
 686
 00:37:26,565 --> 00:37:30,413
-- Indeed, we say that
-a system is inseparable
+- De hecho, decimos que
+un sistema es inseparable
 
 687
 00:37:30,413 --> 00:37:32,723
-when the various points of that system
+cuando los diversos puntos de ese sistema
 
 688
 00:37:32,723 --> 00:37:36,890
-cannot be independent and be
-used in some other system.
+no puede ser independiente y ser
+utilizado en algún otro sistema.
 
 689
 00:37:38,101 --> 00:37:40,680
-- Let me give you an example.
+- Dejame darte un ejemplo.
 
 690
 00:37:40,680 --> 00:37:43,501
-Let's say that I need a new car,
+Digamos que necesito un auto nuevo,
 
 691
 00:37:43,501 --> 00:37:47,072
-and I got very specific
-requirements for this new car.
+y tengo requisitos muy específicos
+para este nuevo automóvil.
 
 692
 00:37:47,072 --> 00:37:50,040
-It's got to be silver,
-it's got to seat six,
+Tiene que ser plateado,
+tiene que sentar a seis,
 
 693
 00:37:50,040 --> 00:37:53,571
-and it's got to go 200 miles an hour.
+y tiene que ir a 200 millas por hora.
 
 694
 00:37:53,571 --> 00:37:54,957
-It turns out I talked to my
+Resulta que hablé con mi
 
 695
 00:37:54,957 --> 00:37:57,267
-brother-in-law and he's got the car.
+cuñado y él tiene el auto.
 
 696
 00:37:57,267 --> 00:38:01,075
-It's silver, it seats six,
-it goes 200 miles an hour.
+Es plateado, tiene capacidad para seis personas
+va a 200 millas por hora.
 
 697
 00:38:01,075 --> 00:38:03,315
-What's more, he just lost his license,
+Además, acaba de perder su licencia,
 
 698
 00:38:03,315 --> 00:38:07,184
-so he's gonna give it to me for free.
+así que me lo dará gratis.
 
 699
 00:38:07,184 --> 00:38:09,275
-There's just one catch.
+Solo hay una trampa.
 
 700
 00:38:09,275 --> 00:38:11,795
-My brother-in-law's car has got a trailer.
+El auto de mi cuñado tiene un trailer.
 
 701
 00:38:11,795 --> 00:38:13,608
