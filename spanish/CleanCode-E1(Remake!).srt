@@ -2064,157 +2064,157 @@ los clientes no van a esperar
 
 466
 00:25:28,402 --> 00:25:32,235
-months or years for new
-features or bug fixes.
+meses o años para tener nuevas
+funcionalidades o correcciones de bugs.
 
 467
 00:25:33,587 --> 00:25:36,259
-- And now just where do you think the
+- Y ahora, ¿de dónde crees que
 
 468
 00:25:36,259 --> 00:25:39,824
-tiger team is going to get
-their requirements from?
+el equipo tigre va a obtener
+sus requerimientos?
 
 469
 00:25:39,824 --> 00:25:41,221
-You don't actually believe there's an
+No crees que en realidad exista un
 
 470
 00:25:41,221 --> 00:25:44,471
-accurate requirements document, do you?
+documento de requeremientos preciso, ¿verdad?
 
 471
 00:25:45,944 --> 00:25:50,304
-- No, man, I mean
-there's been way too many
+- No, hombre, quiero decir
+ha habido demasiadas
 
 472
 00:25:50,304 --> 00:25:55,253
-late night fixes and midnight
-modifications for that.
+reparaciones nocturnas y
+modificaciones de medianoche para eso.
 
 473
 00:25:55,253 --> 00:25:56,264
-- (laughing) Yeah.
+- (risas) Sí.
 
 474
 00:25:56,264 --> 00:25:58,629
-(laughing) The requirements
-aren't in a document anymore.
+(riendo) Los requerimientos
+ya no están en un documento.
 
 475
 00:25:58,629 --> 00:26:01,256
-(laughing) Now they're
-buried in the old code.
+(riendo) Ahora están
+enterrados en el viejo código.
 
 476
 00:26:01,256 --> 00:26:03,736
-(laughing)
+(riendo)
 
 477
 00:26:03,736 --> 00:26:05,085
-- That's right.
+- Está bien.
 
 478
 00:26:05,085 --> 00:26:07,816
-The requirements are in the old code.
+Los requerimientos están en el código anterior.
 
 479
 00:26:07,816 --> 00:26:10,237
-So that tiger team that's supposed to be
+Entonces ese equipo tigre que se supone nos
 
 480
 00:26:10,237 --> 00:26:12,067
-taking us into the future,
+estaba llevándonos al futuro,
 
 481
 00:26:12,067 --> 00:26:15,797
-they're spending their time
-poring over the old code,
+están gastando su tiempo
+estudiando el viejo código,
 
 482
 00:26:15,797 --> 00:26:17,917
-trying to figure out just what it is
+tratando de averiguar qué es lo
 
 483
 00:26:17,917 --> 00:26:19,861
-that the old system does.
+que el viejo sistema hace
 
 484
 00:26:19,861 --> 00:26:21,160
-And then they're trying to figure out
+Y luego están tratando de descubrir
 
 485
 00:26:21,160 --> 00:26:24,571
-how they can reorganize
-and repartition that code
+cómo pueden reorganizarse
+y reparticionar ese código
 
 486
 00:26:24,571 --> 00:26:28,738
-so that it'll be better by
-some definition of better.
+para que sea mejor por
+alguna definición de mejor.
 
 487
 00:26:30,811 --> 00:26:33,200
-Meanwhile, the rest of
-us are working like dogs
+Mientras tanto, el resto de
+nosotros estamos trabajando como perros
 
 488
 00:26:33,200 --> 00:26:35,821
-to fix bugs and add new features.
+para corregir errores y agregar nuevas funciones.
 
 489
 00:26:35,821 --> 00:26:39,280
-So while the tiger team
-is off studying the code,
+Entonces, mientras el equipo tigre
+está estudiando el código,
 
 490
 00:26:39,280 --> 00:26:42,780
-we're busy changing it out from under 'em.
+estamos ocupados cambiándolo de debajo de ellos.
 
 491
 00:26:43,640 --> 00:26:45,832
-- The logical implication being
+- La implicación lógica es
 
 492
 00:26:45,832 --> 00:26:48,832
-that the two factions are in a race.
+que las dos facciones están en una carrera.
 
 493
 00:26:50,472 --> 00:26:52,341
-- Right, a race.
+- Correcto, una carrera.
 
 494
 00:26:52,341 --> 00:26:56,291
-And just like Achilles and the
-tortoise in Zeno's paradox,
+Y al igual que Aquiles y el
+tortuga en la paradoja de Zeno,
 
 495
 00:26:56,291 --> 00:27:00,232
-every time the tiger team got
-to where the old system was,
+cada vez que el equipo tigre
+va a donde estaba el viejo sistema,
 
 496
 00:27:00,232 --> 00:27:01,992
-we would've moved the old system
+ya le habríamos movido ese viejo sistema
 
 497
 00:27:01,992 --> 00:27:04,909
-on with new features and new fixes.
+con nuevas funciones y nuevas correcciones.
 
 498
 00:27:06,707 --> 00:27:08,957
-- And while it is mathematically possible
+- Y mientras es matemáticamente posible
 
 499
 00:27:08,957 --> 00:27:13,584
-to prove that Achilles will
-eventually pass the tortoise,
+demostrar que Aquiles eventualmente
+pasará a la tortuga,
 
 500
 00:27:13,584 --> 00:27:16,751
-that doesn't seem to work in software.
+eso no parece funcionar en el software.
 
 501
 00:27:18,088 --> 00:27:20,093
