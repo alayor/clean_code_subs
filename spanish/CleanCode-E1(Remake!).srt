@@ -2218,219 +2218,219 @@ eso no parece funcionar en el software.
 
 501
 00:27:18,088 --> 00:27:20,093
-- I once worked for a company where that
+- Una vez trabajé para una compañía donde esa
 
 502
 00:27:20,093 --> 00:27:22,939
-race went on for 10 years.
+carrera continuó por 10 años.
 
 503
 00:27:22,939 --> 00:27:26,520
-10 years after we started the redesign,
+10 años después de que comenzamos el rediseño,
 
 504
 00:27:26,520 --> 00:27:28,309
-development was still going on
+el desarrollo todavía estaba en marcha
 
 505
 00:27:28,309 --> 00:27:31,809
-and we were still shipping the old system.
+y todavía estábamos instalando el sistema anterior.
 
 506
 00:27:32,989 --> 00:27:36,520
-Eventually, in desperation,
-the managers decided
+Finalmente, en desesperación,
+los gerentes decidieron
 
 507
 00:27:36,520 --> 00:27:39,269
-to replace all the old
-systems in the field
+reemplazar todos los viejos
+sistemas en el campo
 
 508
 00:27:39,269 --> 00:27:41,920
-with new systems even
-though the new systems
+con nuevos sistemas incluso
+aunque los nuevos sistemas
 
 509
 00:27:41,920 --> 00:27:46,069
-couldn't do everything
-the old systems could.
+no pudieran hacer todo lo que
+los viejos sistemas podían.
 
 510
 00:27:46,069 --> 00:27:47,819
-- I would imagine that the customers
+- Me imagino que los clientes
 
 511
 00:27:47,819 --> 00:27:50,402
-were rather unhappy about that.
+estaban bastante descontentos con eso.
 
 512
 00:27:52,269 --> 00:27:55,619
-- Yeah, some of them
-were pretty upset, but
+- Sí, algunos de ellos
+estaban bastante molestos, pero
 
 513
 00:27:55,619 --> 00:27:59,808
-that was nothing compared
-to the developers.
+eso no fue nada comparado
+a los desarrolladores.
 
 514
 00:27:59,808 --> 00:28:03,189
-You see, the tiger team
-had long since gone on
+Verás, el equipo tigre
+hacía tiempo que se había marchado
 
 515
 00:28:03,189 --> 00:28:05,083
-to bigger and better things,
+a cosas más grandes y mejores,
 
 516
 00:28:05,083 --> 00:28:07,563
-and the programmers that had replaced them
+y los programadores que los habían reemplazado
 
 517
 00:28:07,563 --> 00:28:11,141
-were racing like mad to
-keep up with the old system.
+estaban corriendo como locos a
+mantenerse al día con el viejo sistema.
 
 518
 00:28:11,141 --> 00:28:13,171
-They were horrified at the idea that
+Estaban horrorizados ante la idea de que
 
 519
 00:28:13,171 --> 00:28:15,584
-they'd actually deploy the new system.
+ellos realmente implementarían el nuevo sistema.
 
 520
 00:28:15,584 --> 00:28:17,443
-They said, "You can't deploy this.
+Dijeron: "No se puede implementar esto.
 
 521
 00:28:17,443 --> 00:28:21,021
-"It's crap, it's got to be redesigned."
+"Es basura, tiene que ser rediseñada".
 
 522
 00:28:21,021 --> 00:28:23,661
-The big redesign in the sky
+El gran rediseño al aire
 
 523
 00:28:23,661 --> 00:28:26,893
-is almost always a failing strategy.
+casi siempre es una estrategia fallida.
 
 524
 00:28:26,893 --> 00:28:29,352
-Oh, it might work for a small thing
+Oh, podría funcionar para algo pequeño
 
 525
 00:28:29,352 --> 00:28:31,648
-of a couple of man months or so,
+de un par de meses de trabajo más o menos,
 
 526
 00:28:31,648 --> 00:28:34,368
-but for big projects,
-it's almost certain to end
+pero para grandes proyectos,
+es casi seguro que termine
 
 527
 00:28:34,368 --> 00:28:38,456
-in horrific waste and ultimate disaster.
+en horrible pérdida y desastre final.
 
 528
 00:28:38,456 --> 00:28:41,690
-So that's how bad code can destroy
+Entonces, es así como código malo puede destruir
 
 529
 00:28:41,690 --> 00:28:44,940
-a team, a division, and even a company.
+un equipo, una división e incluso una empresa.
 
 530
 00:28:47,933 --> 00:28:51,053
-- And so here's the bottom line.
+- Y aquí está la conclusión.
 
 531
 00:28:51,053 --> 00:28:54,973
-You cannot deal with a mess
-by running away from it.
+No puedes lidiar con un desastre
+huyendo de él.
 
 532
 00:28:54,973 --> 00:28:57,573
-The only way to effectively
-deal with that mess
+La única manera de efectivamente
+lidiar con ese desastre
 
 533
 00:28:57,573 --> 00:29:00,672
-is to turn around and face it
+es dar la vuelta y enfrentarlo
 
 534
 00:29:00,672 --> 00:29:03,172
-and find the rot and clean it.
+y encontrar lo podrido y limpiarlo.
 
 535
 00:29:04,331 --> 00:29:07,760
-(beeping sounds)
+(pitidos)
 
 536
 00:29:07,760 --> 00:29:10,427
-(keys clicking)
+(teclas haciendo clic)
 
 537
 00:29:13,389 --> 00:29:15,979
-- What happens to software over time?
+- ¿Qué pasa con el software a través del tiempo?
 
 538
 00:29:15,979 --> 00:29:17,312
-Why does it rot?
+¿Por qué se pudre?
 
 539
 00:29:18,309 --> 00:29:21,200
-Why do the beautiful designs we start with
+¿Por qué los bellos diseños con los que empezamos?
 
 540
 00:29:21,200 --> 00:29:25,117
-so often degrade and rot
-into a festering pile?
+a menudo se degradan y se pudren
+en una pila supurante?
 
 541
 00:29:27,709 --> 00:29:31,507
-- At the moment of
-inception, the design of a
+- En el momento de
+inicio, el diseño de un
 
 542
 00:29:31,507 --> 00:29:35,093
-software system is usually a simple,
+sistema de software es generalmente simple,
 
 543
 00:29:35,093 --> 00:29:37,923
-and elegant, and beautiful thing.
+y elegante, y una cosa hermosa.
 
 544
 00:29:37,923 --> 00:29:41,181
-And likewise, when we
-first write the code,
+Y del mismo modo, cuando
+primero escribimos el código,
 
 545
 00:29:41,181 --> 00:29:46,037
-that code is simple, and
-easy to change, and elegant,
+ese código es simple, y
+fácil de cambiar y elegante
 
 546
 00:29:46,037 --> 00:29:49,204
-and our hopes for the system are high.
+y nuestras esperanzas para el sistema son altas.
 
 547
 00:29:50,717 --> 00:29:53,749
-- But with time, that code'll start to rot
+- Pero con el tiempo, ese código comenzará a pudrirse
 
 548
 00:29:53,749 --> 00:29:57,069
-like a piece of bad meat
-sitting in a hot barn.
+como un pedazo de carne mala
+sentado en un granero caliente.
 
 549
 00:29:57,069 --> 00:29:59,544
-And the stink'll get so bad that not even
+Y el hedor se pondrá tan mal que ni siquiera
 
 550
 00:29:59,544 --> 00:30:02,461
-the hogs and crows will go near it.
+los cerdos y los cuervos se acercarán a él.
 
 551
 00:30:03,712 --> 00:30:06,733
