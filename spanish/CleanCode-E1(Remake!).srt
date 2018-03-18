@@ -2434,231 +2434,231 @@ los cerdos y los cuervos se acercarán a él.
 
 551
 00:30:03,712 --> 00:30:06,733
-- You can tell how old a piece of code is
+- Puedes decir cuántos años tiene un código
 
 552
 00:30:06,733 --> 00:30:09,443
-by the facial expression of the developers
+por la expresión facial de los desarrolladores
 
 553
 00:30:09,443 --> 00:30:12,943
-as they bring it up on their screens, hmm.
+a medida que lo muestran en sus pantallas, hmm.
 
 554
 00:30:15,024 --> 00:30:17,573
-- Before we investigate why this happens,
+- Antes de investigar por qué sucede esto,
 
 555
 00:30:17,573 --> 00:30:20,952
-let's study that stench in more detail.
+estudiemos ese hedor con más detalle.
 
 556
 00:30:20,952 --> 00:30:24,619
-What is it that makes
-bad code smell so bad?
+¿Qué es eso que hace que el
+código malo huele tan mal?
 
 557
 00:30:25,893 --> 00:30:28,893
-(mechanical sounds)
+(sonidos mecánicos)
 
 558
 00:30:31,235 --> 00:30:35,402
-- Rigidity is the tendency
-of a system to resist change.
+- La rigidez es la tendencia
+de un sistema para resistir el cambio.
 
 559
 00:30:37,653 --> 00:30:41,264
-- A system is rigid when
-that system requires us
+- Un sistema es rígido cuando
+ese sistema nos requiere
 
 560
 00:30:41,264 --> 00:30:44,595
-to make many changes to
-many different places
+hacer muchos cambios en
+muchos lugares diferentes
 
 561
 00:30:44,595 --> 00:30:49,093
-in order to fix a single bug
-or add a single new behavior.
+para arreglar un solo error
+o agregar una sola funcionalidad nueva.
 
 562
 00:30:49,093 --> 00:30:53,260
-Such a system resists change,
-and so we say it is rigid.
+Tal sistema se resiste al cambio,
+y entonces decimos que es rígido.
 
 563
 00:30:55,224 --> 00:30:58,141
-- I'd really appreciate an example.
+- Realmente apreciaría un ejemplo.
 
 564
 00:30:59,584 --> 00:31:02,773
-- Sure, let's now just say that your boss
+- Claro, digamos que tu jefe
 
 565
 00:31:02,773 --> 00:31:05,392
-comes to you one day and
-shows you a bug report
+viene a ti un día y
+muestra un informe de un bug
 
 566
 00:31:05,392 --> 00:31:07,371
-and asks you if you can fix it.
+y te pregunta si puedes arreglarlo.
 
 567
 00:31:07,371 --> 00:31:09,509
-You look at that bug
-report and you realize
+Miras ese reporte de bug
+y te das cuenta que
 
 568
 00:31:09,509 --> 00:31:11,251
-you know exactly where that bug is.
+sabes exactamente dónde está ese error.
 
 569
 00:31:11,251 --> 00:31:13,931
-You know the line of code that bug is on
+Ya sabes la línea de código en la que está el error
 
 570
 00:31:13,931 --> 00:31:17,328
-'cause you were just in that
-module a week or two ago.
+porque precisament estabas en ese
+módulo hace una semana o dos.
 
 571
 00:31:17,328 --> 00:31:20,248
-And you know how to fix it
-too, it's gonna be easy.
+Y sabes cómo solucionarlo
+también, va a ser fácil.
 
 572
 00:31:20,248 --> 00:31:25,229
-It's gonna be easy-peasy,
-simple as pie, no problemo.
+Va a ser muy fácil,
+simple como un pastel, "no problemo".
 
 573
 00:31:25,229 --> 00:31:28,597
-So you give your boss the
-minimum estimate: three weeks.
+Entonces le das a tu jefe una
+estimación mínima: tres semanas.
 
 574
 00:31:28,597 --> 00:31:30,389
-He goes away happy 'cause he got
+Él se va feliz porque él consiguió
 
 575
 00:31:30,389 --> 00:31:33,448
-the minimum estimate for that task.
+la estimación mínima para esa tarea.
 
 576
 00:31:33,448 --> 00:31:36,027
-Now you go to that module
-and you scroll down
+Ahora vas a ese módulo
+y te desplazas hacia abajo
 
 577
 00:31:36,027 --> 00:31:37,659
-to where you think that bug is.
+a donde piensas que esta ese error.
 
 578
 00:31:37,659 --> 00:31:41,717
-And sure enough, there it is
-right like you thought it'd be.
+Y por supuesto, ahí está
+justo como pensaste que sería.
 
 579
 00:31:41,717 --> 00:31:44,168
-So you reach right in
-there and you fix it.
+Entonces llegas exactamente ahí
+y lo arreglas.
 
 580
 00:31:44,168 --> 00:31:46,037
-And you're about to go do something else
+Y te pones a hacer otra cosa
 
 581
 00:31:46,037 --> 00:31:48,309
-so you don't give your boss
-the idea that your minimum
+para que no le des a tu jefe
+la idea de que tu mínima
 
 582
 00:31:48,309 --> 00:31:50,880
-estimate was a little bit too long.
+estimación estuvo un poco larga.
 
 583
 00:31:50,880 --> 00:31:54,600
-But then there's this itch
-at the back of your head.
+Pero luego está ese picor
+en la parte posterior de tu cabeza.
 
 584
 00:31:54,600 --> 00:31:58,259
-Something's bothering you
-about that change, son.
+Algo te está molestando
+sobre ese cambio, hijo.
 
 585
 00:31:58,259 --> 00:32:01,651
-And that's when you realize
-that the change you just made to
+Y es entonces cuando te das cuenta
+que el cambio que acabas de hacer
 
 586
 00:32:01,651 --> 00:32:05,699
-that module is gonna break a
-different module in the system.
+ese módulo va a romper un
+diferente módulo en el sistema.
 
 587
 00:32:05,699 --> 00:32:08,331
-So you plop back down and
-bring that other module
+Entonces te devuelves y
+traes ese otro módulo
 
 588
 00:32:08,331 --> 00:32:11,120
-up on your screen and scroll
-to the place where you were
+en la pantalla y te desplazas
+al lugar donde estabas
 
 589
 00:32:11,120 --> 00:32:14,619
-thinking about, and sure
-enough you find a problem.
+pensando y seguro,
+encuentres un problema
 
 590
 00:32:14,619 --> 00:32:16,819
-The change you made to the first module is
+El cambio que hiciste en el primer módulo es
 
 591
 00:32:16,819 --> 00:32:18,840
-incompatible with the second.
+incompatible con el segundo.
 
 592
 00:32:18,840 --> 00:32:23,691
-So you reach into that
-second module and you fix it.
+Entonces abres ese
+segundo módulo y lo arreglas.
 
 593
 00:32:23,691 --> 00:32:25,920
-And now you know what's coming, don't you?
+Y ahora sabes lo que viene, ¿no?
 
 594
 00:32:25,920 --> 00:32:28,792
-Because sure as rain on a sunny day,
+Porque seguro como la lluvia en un día soleado,
 
 595
 00:32:28,792 --> 00:32:31,901
-there's other modules in the
-system that aren't sympatico
+hay otros módulos en el
+sistema que no son simpaticos
 
 596
 00:32:31,901 --> 00:32:35,472
-with the change you just
-made to that second module.
+con ese cambio que acabas
+de hacer en ese segundo módulo.
 
 597
 00:32:35,472 --> 00:32:39,272
-So now you start going from
-module to module to module
+Así que ahora empiezas a ir desde
+módulo a módulo a módulo
 
 598
 00:32:39,272 --> 00:32:42,163
-fixing issue after issue, trying to force
+arreglando problema tras problema, tratando de forzar
 
 599
 00:32:42,163 --> 00:32:44,872
-the system back into a consistent state.
+el sistema de regreso a un estado consistente.
 
 600
 00:32:44,872 --> 00:32:48,883
-You're like a dog chasing his
-tail, burning lots of energy.
+Eres como un perro persiguiendo su
+cola, quemando mucha energía.
 
 601
 00:32:48,883 --> 00:32:51,633
