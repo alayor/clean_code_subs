@@ -1777,290 +1777,290 @@ estrategia hasta que tenga éxito.
 
 401
 00:22:02,443 --> 00:22:04,973
-But, of course, it doesn't succeed, and so
+Pero, por supuesto, no tiene éxito, y así
 
 402
 00:22:04,973 --> 00:22:09,140
-the scary gap continues to grow
-and get scarier and scarier.
+la espantosa brecha continúa creciendo
+y se asustan más y más.
 
 403
 00:22:12,325 --> 00:22:14,213
-- At this point, it might be wisest
+- En este punto, podría ser más sabio
 
 404
 00:22:14,213 --> 00:22:16,973
-to consult with the
-programmers themselves.
+consultar con los
+mismos programadores.
 
 405
 00:22:16,973 --> 00:22:19,333
-They are closest to the problem.
+Ellos están más cerca del problema.
 
 406
 00:22:19,333 --> 00:22:21,750
-Perhaps they have a solution.
+Quizás tienen una solución.
 
 407
 00:22:22,944 --> 00:22:25,733
-- Oh, yeah, sure they do. (laughs)
+- Oh, sí, seguro que la tiene. (risas)
 
 408
 00:22:25,733 --> 00:22:28,341
-You want to guess what it is?
+¿Quieres adivinar de qué se trata?
 
 409
 00:22:28,341 --> 00:22:31,296
-(beeping sounds)
+(pitidos)
 
 410
 00:22:31,296 --> 00:22:33,963
-(keys clicking)
+(teclas haciendo clic)
 
 411
 00:22:35,598 --> 00:22:37,968
-- (laughing) Yeah, start over.
+- (risas) Sí, comienza de nuevo.
 
 412
 00:22:37,968 --> 00:22:39,595
-(laughing) Throw it all away.
+(riendo) Tíralo todo.
 
 413
 00:22:39,595 --> 00:22:42,456
-(laughing) Redesign the whole thing.
+(risas) Rediseña todo.
 
 414
 00:22:42,456 --> 00:22:44,706
-(laughing)
+(riendo)
 
 415
 00:22:45,571 --> 00:22:48,563
-- Yeah, like, you know, the
-best thing that could happen
+- Sí, como, ya sabes, lo
+mejor que podría pasar
 
 416
 00:22:48,563 --> 00:22:51,771
-to this system is for
-someone to walk into the
+a este sistema es que
+alguien a caminara en la
 
 417
 00:22:51,771 --> 00:22:54,854
-machine room with a great big magnet.
+sala de máquinas con un imán gigante.
 
 418
 00:22:56,331 --> 00:22:59,979
-- Oh, oh, Uncle Bob, I
-want to be the architect.
+- Oh, oh, Uncle Bob, yo
+quiero ser el arquitecto.
 
 419
 00:22:59,979 --> 00:23:03,062
-Can I, can I please be the architect?
+¿Puedo, puedo ser el arquitecto?
 
 420
 00:23:04,336 --> 00:23:09,048
-- As you might imagine, this
-idea thrills the programmers
+- Como puedes imaginar, esta
+idea emociona a los programadores
 
 421
 00:23:09,048 --> 00:23:11,477
-but terrifies the managers.
+pero aterroriza a los gerentes.
 
 422
 00:23:11,477 --> 00:23:13,877
-The managers know how much
-money was spent on the
+Los gerentes saben cuánto
+dinero se gastó en el
 
 423
 00:23:13,877 --> 00:23:17,208
-first design, and the thought
-of spending all that money
+primer diseño, y el pensamiento
+de gastar todo ese dinero
 
 424
 00:23:17,208 --> 00:23:20,616
-all over again chills them to the marrow.
+una vez más los enfurece hasta la médula.
 
 425
 00:23:20,616 --> 00:23:22,928
-What's more, they've
-got no confidence at all
+Lo que es peor, ellos ya no tienen
+confianza en absoluto
 
 426
 00:23:22,928 --> 00:23:27,448
-that the redesign is actually
-gonna solve the problem.
+que el rediseño en realidad
+va a resolver el problema
 
 427
 00:23:27,448 --> 00:23:29,277
-But here's the thing.
+Pero aquí está la cosa.
 
 428
 00:23:29,277 --> 00:23:31,197
-What other choice do the have?
+¿Qué otra opción tienen?
 
 429
 00:23:31,197 --> 00:23:33,723
-I mean they've tried
-everything else they know to do
+Quiero decir, han intentado
+todo lo demás que saben hacer
 
 430
 00:23:33,723 --> 00:23:37,221
-and nothing worked, and they
-can't go on the way things are.
+y nada ha funcionado, y ellos
+no puedo seguir como están las cosas
 
 431
 00:23:37,221 --> 00:23:40,240
-So as scary as this option is,
+Por muy tenebrosa que sea esta opción,
 
 432
 00:23:40,240 --> 00:23:44,032
-it's kind of the last chance they've got.
+es la última oportunidad que ellos tienen.
 
 433
 00:23:44,032 --> 00:23:46,541
-And there's one other factor.
+Y hay otro factor.
 
 434
 00:23:46,541 --> 00:23:50,363
-Programmers, you should never
-underestimate your power
+Programadores, nunca deberían
+subestimar su poder
 
 435
 00:23:50,363 --> 00:23:53,101
-because you are the ones who know.
+porque ustedes son los que saben.
 
 436
 00:23:53,101 --> 00:23:55,531
-Managers don't, they
-aren't the ones who know.
+Los gerentes no, ellos
+no son los que saben.
 
 437
 00:23:55,531 --> 00:23:58,819
-You know, you were hired because you know.
+Ya sabes, fuiste contratado porque tú sabes.
 
 438
 00:23:58,819 --> 00:24:02,179
-So if you beat the drums for a redesign,
+Entonces, si golpeas la batería para rediseñar,
 
 439
 00:24:02,179 --> 00:24:04,829
-as much as the managers might not like it,
+tanto como a los gerentes podría no gustarles,
 
 440
 00:24:04,829 --> 00:24:07,389
-you will eventually win
-because the managers
+eventualmente ganarás
+porque los gerentes
 
 441
 00:24:07,389 --> 00:24:10,806
-understand that you're the ones who know.
+entienden que ustedes son los que saben.
 
 442
 00:24:12,808 --> 00:24:15,768
-- Well, yes, you'll win alright.
+- Bueno, sí, ganarás bien.
 
 443
 00:24:15,768 --> 00:24:17,935
-And it will be a disaster.
+Y será un desastre.
 
 444
 00:24:19,859 --> 00:24:22,853
-- And what a disaster it'll be.
+- Y qué desastre será.
 
 445
 00:24:22,853 --> 00:24:27,020
-But it doesn't start out
-looking like a disaster, oh no.
+Pero no se comienza
+mirando como un desastre, oh no.
 
 446
 00:24:27,883 --> 00:24:29,664
-On the day that the managers announce
+El día que los gerentes anuncian
 
 447
 00:24:29,664 --> 00:24:31,723
-that we're going to redesign the project,
+que vamos a rediseñar el proyecto,
 
 448
 00:24:31,723 --> 00:24:34,896
-a cheer goes up from the
-development organization.
+una alegría sube desde el
+organización de desarrollo.
 
 449
 00:24:34,896 --> 00:24:37,285
-Hallelujah, we're going
-back to the beginning.
+Aleluya, vamos
+de regreso al principio.
 
 450
 00:24:37,285 --> 00:24:39,115
-We can be productive again.
+Podemos ser productivos nuevamente
 
 451
 00:24:39,115 --> 00:24:41,224
-We're gonna leave this mess behind.
+Vamos a dejar este lío atrás.
 
 452
 00:24:41,224 --> 00:24:45,391
-We don't have to live in
-the old code base anymore.
+Ya no tenemos que vivir con
+ese código viejo más.
 
 453
 00:24:46,835 --> 00:24:50,704
-Of course, the next day in
-the cold light of reality,
+Por supuesto, al día siguiente en
+la fría luz de la realidad,
 
 454
 00:24:50,704 --> 00:24:54,061
-we realize that we are
-not going to be the ones
+nos damos cuenta de que no
+vamos a ser los que
 
 455
 00:24:54,061 --> 00:24:56,451
-who will be redesigning the system.
+estarán rediseñando el sistema.
 
 456
 00:24:56,451 --> 00:25:00,920
-Management has picked the
-10 best, the tiger team.
+La administración ha elegido el
+10 mejores, el equipo tigre.
 
 457
 00:25:00,920 --> 00:25:04,381
-The ones who made the
-mess in the first place.
+Los que hicieron el
+desastre en primer lugar.
 
 458
 00:25:04,381 --> 00:25:07,280
-They're gonna be the ones
-who will sit in a room
+Ellos serán los únicos
+que se sentarán en una habitación
 
 459
 00:25:07,280 --> 00:25:10,757
-working on a greenfield
-project on the new design.
+trabajando en un proyecto
+a campo abierto con el nuevo diseño.
 
 460
 00:25:10,757 --> 00:25:13,037
-They're the ones who are gonna lead us
+Ellos son los que nos van a guiar
 
 461
 00:25:13,037 --> 00:25:15,120
-into a bright new future.
+en un nuevo y brillante futuro
 
 462
 00:25:17,917 --> 00:25:19,907
-The rest of us hate those guys.
+El resto de nosotros odiamos a esos tipos.
 
 463
 00:25:19,907 --> 00:25:22,088
-They're off doing some greenfield thing
+Ellos están haciendo algo nuevo
 
 464
 00:25:22,088 --> 00:25:25,877
-while the rest of us are stuck
-maintaining the old system
+mientras que el resto de nosotros estamos atrapados
+manteniendo el viejo sistema
 
 465
 00:25:25,877 --> 00:25:28,402
-because, after all,
-customers aren't gonna wait
+porque, después de todo,
+los clientes no van a esperar
 
 466
 00:25:28,402 --> 00:25:32,235
