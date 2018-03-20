@@ -3791,200 +3791,200 @@ leer como una prosa bien escrita?
 
 856
 00:47:17,976 --> 00:47:19,809
-Is that even possible?
+¿Es eso posible?
 
 857
 00:47:21,005 --> 00:47:25,027
-The simple answer to that
-is, yes, it's possible.
+La respuesta simple
+es, sí, es posible.
 
 858
 00:47:25,027 --> 00:47:29,147
-The slightly longer answer
-is, well, almost possible.
+La respuesta un poco más larga
+es, bueno, casi posible.
 
 859
 00:47:29,147 --> 00:47:32,325
-We'll actually have a
-lot to say about this
+Tendremos realmente
+mucho que decir sobre esto
 
 860
 00:47:32,325 --> 00:47:34,408
-in the next few episodes.
+en los siguientes episodios.
 
 861
 00:47:35,925 --> 00:47:39,633
-Michael Feathers, the author
-of Working Effectively
+Michael Feathers, el autor
+de Working Effectively
 
 862
 00:47:39,633 --> 00:47:41,550
-with Legacy Code, said,
+with Legacy Code, dijo,
 
 863
 00:47:43,843 --> 00:47:45,808
-"Clean code always looks like
+"El código limpio siempre se ve como
 
 864
 00:47:45,808 --> 00:47:48,975
-"it was written by someone who cares."
+"si fuera escrito por alguien a quien le importa".
 
 865
 00:47:50,259 --> 00:47:52,749
-What a lovely remark.
+Qué comentario más encantador.
 
 866
 00:47:52,749 --> 00:47:56,149
-We might be wonderful
-if all the code we read
+Podría ser maravillo
+si todo el código que leemos
 
 867
 00:47:56,149 --> 00:47:58,832
-looked like it was written
-by someone who cares.
+pareciera que estaba escrito
+por alguien a quien le importa
 
 868
 00:47:58,832 --> 00:48:01,013
-Have you ever read code that looked
+¿Alguna vez has leído código que pareciera
 
 869
 00:48:01,013 --> 00:48:04,139
-like the author didn't care at all?
+como que al autor no le importó en absoluto?
 
 870
 00:48:04,139 --> 00:48:06,267
-This course is going to be about
+Este curso va a ser sobre
 
 871
 00:48:06,267 --> 00:48:09,100
-learning how to care for our code.
+aprendiendo a cuidar nuestro código
 
 872
 00:48:10,627 --> 00:48:13,877
-Ward Cunningham, the inventor of wikis,
+Ward Cunningham, el inventor de los wikis,
 
 873
 00:48:15,419 --> 00:48:18,024
-the inventor of more
-things than I can mention,
+el inventor de más
+cosas de las que puedo hablar,
 
 874
 00:48:18,024 --> 00:48:20,857
-the mentor of most of us, he said,
+el mentor de la mayoría de nosotros, dijo,
 
 875
 00:48:25,275 --> 00:48:28,275
-"You know you are reading clean code
+"Sabes que estás leyendo el código limpio
 
 876
 00:48:28,275 --> 00:48:31,573
-"when every routine that you read
+"cuando cada rutina que lees
 
 877
 00:48:31,573 --> 00:48:34,490
-"is pretty much what you expected."
+"es más o menos lo que esperabas".
 
 878
 00:48:35,824 --> 00:48:40,464
-It's very much like Ward to
-say something so profound
+Es muy parecido a lo que Ward
+dijo algo tan profundo
 
 879
 00:48:40,464 --> 00:48:43,664
-using words that sound so innocuous, but
+usando palabras que suenan tan inocuas, pero
 
 880
 00:48:43,664 --> 00:48:45,640
-think about it, when is the last time
+piénsalo, ¿cuándo es la última vez
 
 881
 00:48:45,640 --> 00:48:48,467
-you read code and thought to yourself,
+que leíste código y pensaste,
 
 882
 00:48:48,467 --> 00:48:51,256
-"Yeah, this is pretty
-much what I expected."?
+"Sí, esto es mas o menos
+lo que esperaba"?
 
 883
 00:48:51,256 --> 00:48:54,461
-Wouldn't it be nice if we
-could all learn to write code
+¿No sería lindo si nosotros
+todos podrían aprender a escribir código
 
 884
 00:48:54,461 --> 00:48:58,331
-that was pretty much what
-we expected, and, in fact,
+que fuera más o menos lo que
+esperábamos y, de hecho,
 
 885
 00:48:58,331 --> 00:49:00,709
-that's what these videos are about:
+de eso se tratan estos videos:
 
 886
 00:49:00,709 --> 00:49:04,237
-how to write code that others will think
+cómo escribir código que otros piensen
 
 887
 00:49:04,237 --> 00:49:07,307
-is pretty much what they expected.
+que es más o menos lo que esperaban.
 
 888
 00:49:07,307 --> 00:49:10,659
-(beeping sounds)
+
 
 889
 00:49:10,659 --> 00:49:13,326
-(keys clicking)
+
 
 890
 00:49:16,048 --> 00:49:20,776
-Robert Baden Powell, the
-father of the boy scouts,
+Robert Baden Powell, el
+padre de los boy scouts,
 
 891
 00:49:20,776 --> 00:49:23,267
-left a posthumous exhortation
+dejó una exhortación póstuma
 
 892
 00:49:23,267 --> 00:49:25,685
-to the organization he founded.
+a la organización que él fundó.
 
 893
 00:49:25,685 --> 00:49:29,852
-He told them, "Leave the world
-better than you found it."
+Él les dijo: "Deja el mundo"
+mejor de lo que lo encontraste ".
 
 894
 00:49:31,816 --> 00:49:34,573
-Now what if we did that with our code?
+¿Y si hiciéramos eso con nuestro código?
 
 895
 00:49:34,573 --> 00:49:38,155
-What if we left our code
-better than we found it?
+¿Qué pasa si dejamos nuestro código?
+mejor de lo que lo encontramos?
 
 896
 00:49:38,155 --> 00:49:41,432
-What if every time you
-checked a module in,
+¿Qué pasa si cada vez que
+verificas un módulo,
 
 897
 00:49:41,432 --> 00:49:43,032
-you checked it in just a little
+lo dejaste solo un poco
 
 898
 00:49:43,032 --> 00:49:45,168
-bit better than you checked it out?
+mejor que cuando lo encontraste?
 
 899
 00:49:45,168 --> 00:49:48,907
-What if you always did
-some random act of kindness
+¿Qué pasa si siempre haces
+algún acto de bondad al azar
 
 900
 00:49:48,907 --> 00:49:51,379
-to the code so that it
-would be better and better,
+al código para que
+sea mejor y mejor,
 
 901
 00:49:51,379 --> 00:49:54,744
