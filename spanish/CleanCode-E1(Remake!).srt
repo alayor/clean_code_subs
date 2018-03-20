@@ -3988,108 +3988,108 @@ sea mejor y mejor,
 
 901
 00:49:51,379 --> 00:49:54,744
-and you never ever checked it in worse.
+y nunca lo dejaste peor.
 
 902
 00:49:54,744 --> 00:49:58,584
-If we all did that, then
-our code would simply get
+Si todos hiciéramos eso, entonces
+nuestro código simplemente se volveria
 
 903
 00:49:58,584 --> 00:50:01,413
-better and better and better all the time,
+cada vez mejor y mejor todo el tiempo,
 
 904
 00:50:01,413 --> 00:50:05,413
-and that, too, is what
-this course is all about.
+y eso, también, es lo que
+este curso se trata.
 
 905
 00:50:06,789 --> 00:50:08,997
-Well, that's it, that's our remake of
+Bueno, eso es todo, esta es nuestra nueva versión de
 
 906
 00:50:08,997 --> 00:50:11,469
-episode one, I hope you enjoyed it.
+episodio uno, espero que lo hayas disfrutado.
 
 907
 00:50:11,469 --> 00:50:14,437
-And if this is the first time
-you've watched an episode,
+Y si esta es la primera vez
+has visto un episodio,
 
 908
 00:50:14,437 --> 00:50:17,248
-well, you've got a lot to look forward to.
+bueno, tienes mucho que esperar.
 
 909
 00:50:17,248 --> 00:50:20,667
-Episode two is all about
-choosing good names.
+El segundo episodio trata sobre
+eligiendo buenos nombres.
 
 910
 00:50:20,667 --> 00:50:23,613
-Episode three, four,
-and five are all about
+Episodio tres, cuatro,
+y cinco son sobre
 
 911
 00:50:23,613 --> 00:50:25,880
-functions and function structure.
+funciones y estructura de funciones.
 
 912
 00:50:25,880 --> 00:50:29,459
-Episode six is a two-parter
-on test-driven development.
+El episodio seis es un videojuego de dos partes
+sobre Test-driven Development.
 
 913
 00:50:29,459 --> 00:50:32,227
-Episode seven is about architecture,
+El episodio siete trata sobre arquitectura,
 
 914
 00:50:32,227 --> 00:50:35,507
-and then we start getting
-into the solid principles,
+y luego empezamos a con
+los principios SOLID,
 
 915
 00:50:35,507 --> 00:50:37,664
-and then the component principles,
+y luego los principios de componentes,
 
 916
 00:50:37,664 --> 00:50:40,440
-and then advanced test-driven development.
+y luego advanced Test-driven Development.
 
 917
 00:50:40,440 --> 00:50:43,245
-And we have just scratched the surface.
+Y solo arañamos la superficie.
 
 918
 00:50:43,245 --> 00:50:45,412
-There's a lot more coming.
+Hay mucho más por venir.
 
 919
 00:50:46,376 --> 00:50:48,793
-(rock music)
+
 
 920
 00:51:17,323 --> 00:51:21,477
-The Scarier Gap, it's named
-after a man named Fred Scarier.
+The Scarier Gap, se llama
+después de un hombre llamado Fred Scarier.
 
 921
 00:51:21,477 --> 00:51:25,155
-Never mind, it's okay.
-(laughing)
+No importa, está bien.
+(riendo)
 
 922
 00:51:25,155 --> 00:51:26,181
-- [Camera Person] Alright, ready?
+- [Camera Person] De acuerdo, ¿listo?
 
 923
 00:51:26,181 --> 00:51:28,027
-- No, I'm not ready at all, no.
+- No, no estoy listo para nada, no.
 
 924
 00:51:28,027 --> 00:51:31,194
-Okay. (clears throat)
+Bueno. (se aclara la garganta)
 
 925
 00:51:32,576 --> 00:51:34,536
@@ -4097,109 +4097,109 @@ Okay. (clears throat)
 
 926
 00:51:34,536 --> 00:51:37,453
-- Sure. (laughing)
+- Por supuesto. (riendo)
 
 927
 00:51:40,208 --> 00:51:41,766
-Sure.
-(laughing)
+Por supuesto.
+(riendo)
 
 928
 00:51:41,766 --> 00:51:43,544
-Let's now just say, yeah, yeah, yeah.
+Digamos ahora, sí, sí, sí.
 
 929
 00:51:43,544 --> 00:51:44,771
-Okay, alright, sure.
+De acuerdo, está bien, claro.
 
 930
 00:51:44,771 --> 00:51:46,957
-(clears throat) Yeah.
+(se aclara la garganta) Sí.
 
 931
 00:51:46,957 --> 00:51:49,207
-(laughing)
+(riendo)
 
 932
 00:51:50,344 --> 00:51:53,557
-A rigid system. (fumbling words)
+Un sistema rígido. (palabras vacilantes)
 
 933
 00:51:53,557 --> 00:51:56,605
-Estimating how long, yes, okay.
+Estimando cuánto tiempo, sí, está bien.
 
 934
 00:51:56,605 --> 00:51:58,699
-(droning sound)
+(sonido de zumbido)
 
 935
 00:51:58,699 --> 00:52:01,866
-(lip flapping sounds)
+(sonido de aleteo de labios)
 
 936
 00:52:03,763 --> 00:52:07,235
-- Yeah, that's a rigid
-system, alright, because,
+- Sí, eso es un rígido
+sistema, bien, porque
 
 937
 00:52:07,235 --> 00:52:11,402
-you see, rigid systems are
-wildly unpredictable, and
+usted ve, los sistemas rígidos son
+muy impredecible, y
 
 938
 00:52:12,435 --> 00:52:14,336
-estimating them, trying to figure them out
+estimándolos, tratando de resolverlos
 
 939
 00:52:14,336 --> 00:52:18,203
-is fraught with error and frustration
+está lleno de error y frustración
 
 940
 00:52:18,203 --> 00:52:20,203
-because, well, whatever.
+porque, bueno, lo que sea.
 
 941
 00:52:21,131 --> 00:52:23,048
-Because, um, something.
+Porque, um, algo.
 
 942
 00:52:26,331 --> 00:52:28,750
-'Cause you can never properly do.
+Porque nunca puedes hacer apropiadamente.
 
 943
 00:52:28,750 --> 00:52:30,285
-- [Camera Person] Is fraught with error
+- [Camera Person] está lleno de errores
 
 944
 00:52:30,285 --> 00:52:32,483
-because you can never properly determine,
+porque nunca puedes determinar apropiadamente,
 
 945
 00:52:32,483 --> 00:52:35,008
-all the parts of the
-system are going to need
+todas las partes de la
+sistema va a necesitar
 
 946
 00:52:35,008 --> 00:52:39,133
-to be changed, so rigid
-systems tend to blow estimates.
+para ser cambiado, tan rígido
+los sistemas tienden a superar las estimaciones.
 
 947
 00:52:39,133 --> 00:52:41,560
-You were supposed to lip sync that.
+Se suponía que debías sincronizar los labios con eso.
 
 948
 00:52:41,560 --> 00:52:44,024
-- Well, I was trying.
+- Bueno, lo estaba intentando.
 
 949
 00:52:44,024 --> 00:52:46,939
-- [Camera Person] It wasn't
-very successful, I would say.
+- [Camera Person] No fue
+muy exitoso, diría yo.
 
 950
 00:52:46,939 --> 00:52:48,616
-Let's do this, I feel good about
+Hagamos esto, me siento bien acerca de
 
 951
 00:52:48,616 --> 00:52:49,939
