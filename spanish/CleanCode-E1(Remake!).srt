@@ -3553,241 +3553,241 @@ no es la forma en que vas rápido
 
 802
 00:44:11,320 --> 00:44:14,725
-It's the way you go slow,
-and you already know this.
+Es la forma en que vas lento,
+y ya sabes esto.
 
 803
 00:44:14,725 --> 00:44:16,915
-You've acknowledged it, you said you were
+Lo has reconocido, dijiste que estabas
 
 804
 00:44:16,915 --> 00:44:19,748
-significantly impeded by bad code.
+significativamente impedido por el mal código.
 
 805
 00:44:22,016 --> 00:44:25,987
-- If you want to go fast,
-you have to stay clean.
+- Si quieres ir rápido,
+tienes que mantener tu código limpio.
 
 806
 00:44:25,987 --> 00:44:29,154
-The only way to go fast is to go well.
+La única manera de ir rápido es ir bien.
 
 807
 00:44:31,125 --> 00:44:35,805
-- This can be hard to accept
-because most of us feel
+- Esto puede ser difícil de aceptar
+porque la mayoría de nosotros sentimos
 
 808
 00:44:35,805 --> 00:44:39,024
-like we can get done faster by rushing.
+que podemos ir más rápido corriendo.
 
 809
 00:44:39,024 --> 00:44:41,080
-The truth is, though, you can't.
+La verdad es que, sin embargo, no puedes.
 
 810
 00:44:41,080 --> 00:44:45,247
-If you rush through code,
-you will always slow down.
+Si apresuras el código,
+siempre reducirás la velocidad.
 
 811
 00:44:46,277 --> 00:44:49,157
-Now some people think
-that they can go faster
+Ahora algunas personas piensan
+que pueden ir más rápido
 
 812
 00:44:49,157 --> 00:44:52,208
-in the short term by rushing, even if that
+en el corto plazo apresurándose, incluso si eso
 
 813
 00:44:52,208 --> 00:44:54,408
-slows them down in the long term,
+los ralentiza a largo plazo,
 
 814
 00:44:54,408 --> 00:44:56,357
-but this is an illusion.
+pero esto es una ilusión.
 
 815
 00:44:56,357 --> 00:44:59,747
-Rushing always slows you
-down, even in the short term.
+Correr siempre te vuelve lento,
+incluso en el corto plazo.
 
 816
 00:44:59,747 --> 00:45:03,104
-Making a mess is never
-a strategy to go fast.
+Hacer un desastre nunca es
+una estrategia para ir rápido.
 
 817
 00:45:03,104 --> 00:45:05,584
-The only way to go fast in the short term
+La única manera de ir rápido en el corto plazo
 
 818
 00:45:05,584 --> 00:45:08,251
-or the long term is to be clean.
+o el largo plazo es ser limpio.
 
 819
 00:45:10,061 --> 00:45:11,752
-- Ah, grasshopper.
+- Ah, saltamontes.
 
 820
 00:45:11,752 --> 00:45:15,112
-Have you ever watched a
-sushi chef prepare food?
+¿Alguna vez has visto un
+chef de sushi preparar la comida?
 
 821
 00:45:15,112 --> 00:45:17,779
-The next time you go, pay close attention.
+La próxima vez que vaya, preste mucha atención.
 
 822
 00:45:17,779 --> 00:45:20,888
-You can tell that the chef
-has practiced his moves.
+Puedes decir que el chef
+ha practicado sus movimientos.
 
 823
 00:45:20,888 --> 00:45:22,909
-Every motion has a purpose.
+Cada movimiento tiene un propósito.
 
 824
 00:45:22,909 --> 00:45:25,437
-Every motion is sure and quick.
+Cada movimiento es seguro y rápido.
 
 825
 00:45:25,437 --> 00:45:27,784
-Every motion is precise.
+Cada movimiento es preciso.
 
 826
 00:45:27,784 --> 00:45:30,944
-He cuts, he slices, he rolls, he positions
+Corta, corta, rueda, coloca
 
 827
 00:45:30,944 --> 00:45:34,173
-in a flurry of concentrated activity.
+en una ráfaga de actividad concentrada.
 
 828
 00:45:34,173 --> 00:45:36,824
-And then comes the magic moment
+Y luego viene el momento mágico
 
 829
 00:45:36,824 --> 00:45:39,952
-where he takes the dish and
-he puts it in front of you.
+donde toma el plato y
+él lo pone enfrente de ti.
 
 830
 00:45:39,952 --> 00:45:42,211
-The presentation is impeccable.
+La presentación es impecable.
 
 831
 00:45:42,211 --> 00:45:44,314
-But, grasshopper, look at his workspace.
+Pero, saltamontes, mira su espacio de trabajo.
 
 832
 00:45:44,314 --> 00:45:45,147
-(gong hit)
+
 
 833
 00:45:45,147 --> 00:45:47,963
-His workspace is clean and spotless.
+Su espacio de trabajo es limpio e impecable.
 
 834
 00:45:47,963 --> 00:45:51,221
-He has been cleaning
-throughout the entire procedure
+Él ha estado limpiando
+durante todo el procedimiento
 
 835
 00:45:51,221 --> 00:45:55,388
-because, grasshopper, that is
-the only way he can go fast.
+porque, saltamontes, esa es
+la única forma en que puede ir rápido.
 
 836
 00:45:57,003 --> 00:46:00,072
-(beeping sounds)
+(pitidos)
 
 837
 00:46:00,072 --> 00:46:02,739
-(keys clicking)
+(teclas haciendo clic)
 
 838
 00:46:05,173 --> 00:46:06,923
-- What is clean code?
+- ¿Qué es código limpio?
 
 839
 00:46:08,203 --> 00:46:11,763
-I asked several experts that question.
+Le pregunté a varios expertos esa pregunta.
 
 840
 00:46:11,763 --> 00:46:13,930
-And here's what they said.
+Y esto es lo que dijeron.
 
 841
 00:46:15,032 --> 00:46:19,843
-Bjarne Stroustrup, the
-inventor of C++, said,
+Bjarne Stroustrup, el
+inventor de C++, dijo,
 
 842
 00:46:19,843 --> 00:46:23,510
-"I like my code to be
-elegant and efficient.
+"Me gusta que mi código sea
+elegante y eficiente.
 
 843
 00:46:24,344 --> 00:46:27,094
-"Clean code should do one thing."
+"El código limpio debería hacer una cosa".
 
 844
 00:46:30,104 --> 00:46:34,271
-Elegant code is code that
-does a lot in a few words.
+Código elegante es código que
+hace mucho con pocas palabras.
 
 845
 00:46:36,253 --> 00:46:40,420
-Efficient code is code that
-uses very few CPU cycles.
+El código eficiente es código que
+usa muy pocos ciclos de CPU.
 
 846
 00:46:41,344 --> 00:46:45,261
-But what does it mean
-for code to do one thing?
+Pero, qué significa
+para que el código haga una cosa?
 
 847
 00:46:46,824 --> 00:46:48,173
-That's something we're gonna talk
+Eso es algo de lo que hablaremos
 
 848
 00:46:48,173 --> 00:46:50,590
-about in an upcoming episode.
+en un próximo episodio.
 
 849
 00:46:52,117 --> 00:46:56,408
-Grady Booch, the author
-of this 1990s classic,
+Grady Booch, el autor
+de este clásico de los 90,
 
 850
 00:46:56,408 --> 00:47:00,435
-Object Oriented Design and
-Analysis with Applications,
+Diseño orientado a objetos y
+Análisis con aplicaciones,
 
 851
 00:47:00,435 --> 00:47:03,685
-said, "Clean code is simple and direct.
+dijo: "El código limpio es simple y directo.
 
 852
 00:47:05,443 --> 00:47:09,533
-"Clean code reads like
-well-written prose."
+"Código limpio se lee como
+prosa bien escrita ".
 
 853
 00:47:09,533 --> 00:47:11,613
-We understand the simple and direct part,
+Entendemos la parte simple y directa,
 
 854
 00:47:11,613 --> 00:47:14,024
-that doesn't need a
-lot of explanation, but
+eso no necesita
+mucha explicación, pero
 
 855
 00:47:14,024 --> 00:47:17,976
-what does it mean for code to
-read like well-written prose?
+¿Qué significa código para
+leer como una prosa bien escrita?
 
 856
 00:47:17,976 --> 00:47:19,809
